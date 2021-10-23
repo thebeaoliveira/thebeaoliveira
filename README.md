@@ -1,16 +1,35 @@
-### Hi there 👋
+# Hello, i am Beatriz!
 
-<!--
-**thebeaoliveira/thebeaoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been in the IT area for 7 years, with an undergraduate degree in Information Systems, a graduate degree in Project Management, and an MBA in Solution Architecture. Currently I work with IT infrastructure focused on cloud computing at [Telefônica Brasil](https://www.telefonica.com.br/).
 
-Here are some ideas to get you started:
+I also hold well-known certifications in the market that are focused on several technologies such as Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP), Oracle Cloud, Huawei Cloud, Elastic Stack, VMware, among others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since 2017 I have been supporting and creating initiatives to make the tech field more diverse. I currently do this work voluntarily as a Community Manager at SysAdminas. I have also volunteered at [PHPWomenBR](https://phpwomen.org.br/) and [WoMakersCode](https://womakerscode.org/) communities, all of which aim to promote the inclusion of women in STEM fields in Brazil.
+
+# My projects for the community
+
+### 👩🏻‍💻 [Comunidade SysAdminas](https://github.com/sysadminas)
+I have been a Community Manager at SysAdminas since 2019. The work aims to support women who want to develop their careers in IT infrastructure through collaborative and free initiatives. 
+In this project, I am responsible for organizing and managing the community blog, meetups, workshops, mentorships, and certification programs.
+
+### 🎤 [Lectures](https://github.com/thebeaoliveira/my-talks/blob/main/english.md)
+I have participated in more than 30 events as a speaker in Brazil. I give free lectures to the community focusing on IT infrastructure, observability, and diversity in STEM.
+
+### 📚[Free ebook](https://openlibrary.org/books/OL28653878M/Guia_de_Infraestrutura_de_TI#reader-observations)
+In 2020, a professional colleague and I wrote an e-book about IT infrastructure. The goal of this project was to help beginners to study through accessible content written in the Portuguese language.
+
+### 📝 [Articles and tutorials](https://thebeaoliveira.medium.com/) 
+Since 2017 I have been writing articles and tutorials on Medium about technology, infrastructure, career, diversity, and communities. Currently, I have more than 80 articles written in Portuguese published on this platform.
+
+# Honors and Awards
+
+Throughout my career I have been honored to have my contributions recognized through global programs and awards. Some of them are:
+
+- [Elastic Search Awards](https://www.elastic.co/pt/blog/introducing-the-2020-elastic-search-awards-honorees-for-the-americas-region) - Comunidade SysAdminas in 2020
+- [Elastic Gold Contributor](https://www.credential.net/b0e79f6f-3982-46ae-b0bf-c9427c699dd3#gs.dhn8w1) in 2020 and 2021
+- [VMware vExpert](https://vexpert.vmware.com/directory/7107) in 2021
+
+
+# My contacts
+
+[Linkedin](https://www.linkedin.com/in/thebeaoliveira/), [Instagram](https://www.instagram.com/thebeaoliveira) and [Twitter](https://twitter.com/thebeaoliveira)
