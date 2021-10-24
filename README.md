@@ -32,4 +32,4 @@ Throughout my career I have been honored to have my contributions recognized thr
 
 # My contacts
 
-[Linkedin](https://www.linkedin.com/in/thebeaoliveira/), [Instagram](https://www.instagram.com/thebeaoliveira) and [Twitter](https://twitter.com/thebeaoliveira)
+[Linkedin](https://www.linkedin.com/in/thebeaoliveira/), [Instagram](https://www.instagram.com/thebeaoliveira), [Twitter](https://twitter.com/thebeaoliveira) and [Flickr](https://www.flickr.com/photos/194252068@N04/)
