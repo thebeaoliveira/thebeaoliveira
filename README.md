@@ -6,22 +6,22 @@ I also hold well-known certifications in the market that are focused on several 
 
 Since 2017 I have been supporting and creating initiatives to make the tech field more diverse. I currently do this work voluntarily as a Community Manager at [SysAdminas](https://www.instagram.com/sysadminasbr/). I have also volunteered at [PHPWomenBR](https://phpwomen.org.br/) and [WoMakersCode](https://womakerscode.org/) communities, all of which aim to promote the inclusion of women in STEM fields in Brazil.
 
-# My projects for the community
+## My projects for the community
 
 ### 👩🏻‍💻 [Comunidade SysAdminas](https://github.com/sysadminas)
 I have been a Community Manager at SysAdminas since 2019. The work aims to support women who want to develop their careers in IT infrastructure through collaborative and free initiatives. 
 In this project, I am responsible for organizing and managing the community blog, meetups, workshops, mentorships, and certification programs.
 
 ### 🎤 [Lectures](https://github.com/thebeaoliveira/my-talks/blob/main/english.md)
-I have participated in more than 30 events as a speaker in Brazil. I give free lectures to the community focusing on IT infrastructure, observability, and diversity in STEM.
+I have participated in more than **35 events** as a speaker in Brazil. I give free lectures to the community focusing on IT infrastructure, observability, and diversity in STEM.
 
-### 📚[Free ebook](https://openlibrary.org/books/OL28653878M/Guia_de_Infraestrutura_de_TI#reader-observations)
+### 📚 [Free ebook](https://openlibrary.org/books/OL28653878M/Guia_de_Infraestrutura_de_TI#reader-observations)
 In 2020, a professional colleague and I wrote an e-book about IT infrastructure. The goal of this project was to help beginners to study through accessible content written in the Portuguese language.
 
 ### 📝 [Articles and tutorials](https://thebeaoliveira.medium.com/) 
-Since 2017 I have been writing articles and tutorials on Medium about technology, infrastructure, career, diversity, and communities. Currently, I have more than 80 articles written in Portuguese published on this platform.
+Since 2017 I have been writing articles and tutorials on Medium about technology, infrastructure, career, diversity, and communities. Currently, I have more than **80 articles** written in Portuguese published on this platform.
 
-# Honors and Awards
+## Honors and Awards
 
 Throughout my career I have been honored to have my contributions recognized through global programs and awards. Some of them are:
 
@@ -30,6 +30,6 @@ Throughout my career I have been honored to have my contributions recognized thr
 - [VMware vExpert](https://vexpert.vmware.com/directory/7107) in 2021
 
 
-# My contacts
+## My contacts
 
 [Linkedin](https://www.linkedin.com/in/thebeaoliveira/), [Instagram](https://www.instagram.com/thebeaoliveira), [Twitter](https://twitter.com/thebeaoliveira) and [Flickr](https://www.flickr.com/photos/194252068@N04/)
