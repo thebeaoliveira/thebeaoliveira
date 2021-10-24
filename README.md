@@ -12,7 +12,7 @@ Since 2017 I have been supporting and creating initiatives to make the tech fiel
 I have been a Community Manager at SysAdminas since 2019. The work aims to support women who want to develop their careers in IT infrastructure through collaborative and free initiatives. 
 In this project, I am responsible for organizing and managing the community blog, meetups, workshops, mentorships, and certification programs.
 
-### 🎤 [Lectures](https://github.com/thebeaoliveira/my-talks/blob/main/english.md)
+### 🎤 [Lectures](https://github.com/thebeaoliveira/thebeaoliveira/blob/main/events/english.md)
 I have participated in more than **35 events** as a speaker in Brazil. I give free lectures to the community focusing on IT infrastructure, observability, and diversity in STEM.
 
 ### 📚 [Free ebook](https://openlibrary.org/books/OL28653878M/Guia_de_Infraestrutura_de_TI#reader-observations)
