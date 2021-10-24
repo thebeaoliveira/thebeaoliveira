@@ -4,7 +4,7 @@ I have been in the IT area for 7 years, with an undergraduate degree in Informat
 
 I also hold well-known certifications in the market that are focused on several technologies such as Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP), Oracle Cloud, Huawei Cloud, Elastic Stack, VMware, among others.
 
-Since 2017 I have been supporting and creating initiatives to make the tech field more diverse. I currently do this work voluntarily as a Community Manager at SysAdminas. I have also volunteered at [PHPWomenBR](https://phpwomen.org.br/) and [WoMakersCode](https://womakerscode.org/) communities, all of which aim to promote the inclusion of women in STEM fields in Brazil.
+Since 2017 I have been supporting and creating initiatives to make the tech field more diverse. I currently do this work voluntarily as a Community Manager at [SysAdminas](https://www.instagram.com/sysadminasbr/). I have also volunteered at [PHPWomenBR](https://phpwomen.org.br/) and [WoMakersCode](https://womakerscode.org/) communities, all of which aim to promote the inclusion of women in STEM fields in Brazil.
 
 # My projects for the community
 
