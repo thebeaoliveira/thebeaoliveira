@@ -2,6 +2,11 @@
 Here are some articles and tutorials I've been writing for the community since 2017.
 
 ## 2021
+|  Theme | Publication date | Language | Scope |
+| ------------ | ------------ | ------------ | ------------ | 
+| [Como monitorar uma instância EC2 utilizando o infrastructure agent do New Relic](https://medium.com/sysadminas/como-monitorar-uma-inst%C3%A2ncia-ec2-utilizando-o-infrastructure-agent-do-new-relic-e1b4865223b7) | January  06, 2021 | Portuguese | New Relic, Observability and AWS |
+| [Monitore suas instâncias do EC2 com o AWS Module do Metricbeat](https://medium.com/sysadminas/monitore-suas-inst%C3%A2ncias-do-ec2-com-o-aws-module-do-metricbeat-f64e2a433d17) | January  18, 2021 | Portuguese | Elastic Stack, Observability and AWS |
+| [Como coletar métricas do Windows utilizando o Metricbeat](https://medium.com/sysadminas/como-coletar-m%C3%A9tricas-do-windows-utilizando-o-metricbeat-adf557888c21) | January  22, 2021 | Portuguese | Elastic Stack, Observability and Windows |
 
 ## 2020 
 
