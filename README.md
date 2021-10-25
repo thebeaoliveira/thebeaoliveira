@@ -1,6 +1,6 @@
 # Hello, i am Beatriz!
 
-I have been in the IT area for 7 years, with an undergraduate degree in Information Systems, a graduate degree in Project Management, and an MBA in Solution Architecture. Currently I work with IT infrastructure focused on cloud computing at [Telefônica Brasil](https://www.telefonica.com.br/).
+I have been in the IT area for 7 years, with an undergraduate degree in Information Systems, a graduate degree in Project Management, and an MBA in Solution Architecture. Currently I work with Technology Infrastructure focused on Cloud Computing at [Telefônica Brasil](https://www.telefonica.com.br/).
 
 I also hold well-known certifications in the market that are focused on several technologies such as Microsoft Azure, Amazon Web Services (AWS), Google Cloud Platform (GCP), Oracle Cloud, Huawei Cloud, Elastic Stack, VMware, among others.
 
