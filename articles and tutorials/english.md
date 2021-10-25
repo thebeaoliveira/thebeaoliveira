@@ -10,7 +10,12 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Fique por dentro da Cloud Computing Week](https://medium.com/sysadminas/fique-por-dentro-da-cloud-computing-week-5e0cc1e56926) | January  25, 2021 | Portuguese | Cloud Computing | SysAdminas |
 | [Como coletar logs do MSSQL com o Filebeat](https://medium.com/sysadminas/como-coletar-logs-do-mssql-com-o-filebeat-dc0a3f6ec9cb) |  January  25, 2021 | Portuguese | Elastic Stack, Observability and MSSQL | SysAdminas |
 | [Como coletar métricas do Tomcat com o Metricbeat](https://medium.com/sysadminas/como-coletar-m%C3%A9tricas-do-tomcat-com-o-metricbeat-17fd4c0ccb19) |  January  25, 2021 | Portuguese | Elastic Stack, Observability and Tomcat | SysAdminas |
-
+| [Como coletar logs do RabbitMQ com o Filebeat](https://medium.com/sysadminas/como-coletar-logs-do-rabbitmq-com-o-filebeat-47a015d102e2) | January  25, 2021 | Portuguese | Elastic Stack, Observability and RabbitMQ | SysAdminas |
+| [Como coletar logs do PostgreSQL com o Filebeat](https://medium.com/sysadminas/como-coletar-logs-do-postgresql-com-o-filebeat-8e8fb7a44e2c) | January  27, 2021 | Portuguese | Elastic Stack, Observability and PostgreSQL | SysAdminas |
+| [Como monitorar o Apache Zookeeper com o Metricbeat](https://medium.com/sysadminas/como-monitorar-o-apache-zookeeper-com-o-metricbeat-1acfcf11f7bc) | January  27, 2021 | Portuguese | Elastic Stack, Observability and Apache Zookeeper | SysAdminas |
+| [Como coletar logs do MongoDB com Filebeat](https://medium.com/sysadminas/como-coletar-logs-do-mongodb-com-filebeat-97b0072cead8) | January  27, 2021 | Portuguese | Elastic Stack, Observability and MongoDB | SysAdminas |
+| [Como coletar logs do Nginx com o Filebeat](https://medium.com/sysadminas/como-coletar-logs-do-nginx-com-o-filebeat-3851d1106ad8) | January  27, 2021 | Portuguese | Elastic Stack, Observability and Nginx | SysAdminas |
+| [Como coletar logs de erro e queries lentas do MySQL com o Filebeat](https://medium.com/sysadminas/como-coletar-logs-de-erro-e-queries-lentas-do-mysql-com-o-filebeat-21fe99c54ae5) | January  27, 2021 | Portuguese | Elastic Stack, Observability and MySQL | SysAdminas |
 
 ## 2020 
 
