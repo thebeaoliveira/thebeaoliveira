@@ -16,6 +16,15 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Como coletar logs do MongoDB com Filebeat](https://medium.com/sysadminas/como-coletar-logs-do-mongodb-com-filebeat-97b0072cead8) | January  27, 2021 | Portuguese | Elastic Stack, Observability and MongoDB | SysAdminas |
 | [Como coletar logs do Nginx com o Filebeat](https://medium.com/sysadminas/como-coletar-logs-do-nginx-com-o-filebeat-3851d1106ad8) | January  27, 2021 | Portuguese | Elastic Stack, Observability and Nginx | SysAdminas |
 | [Como coletar logs de erro e queries lentas do MySQL com o Filebeat](https://medium.com/sysadminas/como-coletar-logs-de-erro-e-queries-lentas-do-mysql-com-o-filebeat-21fe99c54ae5) | January  27, 2021 | Portuguese | Elastic Stack, Observability and MySQL | SysAdminas |
+| [Como monitorar o Prometheus com Metricbeat](https://thebeaoliveira.medium.com/como-monitorar-o-prometheus-com-metricbeat-4c5fcfb0e1b) | January  28, 2021 | Portuguese | Elastic Stack, Observability and Prometheus | SysAdminas |
+| [Tudo o que você pode fazer na sua infra com os Beats da Elastic](https://medium.com/sysadminas/tudo-o-que-voc%C3%AA-pode-fazer-na-sua-infra-com-os-beats-da-elastic-322161b4f3c9) | January  28, 2021 | Portuguese | Elastic Stack, Observability and Infrastructure | SysAdminas |
+| [Programas de contribuição de tecnologia que você precisa conhecer](https://medium.com/sysadminas/programas-de-contribui%C3%A7%C3%A3o-de-tecnologia-que-voc%C3%AA-precisa-conhecer-c46c17501611) | March  28, 2021 | Portuguese | Community | SysAdminas |
+| [Como executar o Metricbeat no Kubernetes](https://medium.com/sysadminas/como-executar-o-metricbeat-no-kubernetes-b94ad920910b) | April  17, 2021 | Portuguese | Metricbeat and Kubernetes | SysAdminas |
+| [Como me preparei para a Elastic Certified Observability Engineer](https://medium.com/sysadminas/como-me-preparei-para-a-elastic-certified-observability-engineer-e3d21c03ae51) | June  28, 2021 | Portuguese | Elastic Certification | SysAdminas |
+| [Como me preparei para o exame Huawei Certified Associate Cloud Service](https://medium.com/sysadminas/como-me-preparei-para-a-huawei-certified-associate-cloud-service-e119de3a30c0) | July  05, 2021 | Portuguese | Huawei Cloud Certification | SysAdminas |
+| [Como me preparei para o exame Google Cloud Digital Leader](https://medium.com/sysadminas/como-me-preparei-para-o-exame-google-cloud-digital-leader-5d6076340fb9) | July  26, 2021 | Portuguese | Google Cloud Certification | SysAdminas |
+| [Como criar um readme para o seu perfil no Github](https://medium.com/sysadminas/como-criar-um-readme-para-o-seu-perfil-no-github-8ca5c61ac0cd) | October  23, 2021 | Portuguese | Github | SysAdminas |
+
 
 ## 2020 
 
