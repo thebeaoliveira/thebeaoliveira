@@ -13,9 +13,12 @@ Here are some articles and tutorials I've been writing for the community since 2
 
 |  Theme | Publication date | Language | Scope |
 | ------------ | ------------ | ------------ | ------------ | 
-|[Free software and the concept of freedom](https://code.likeagirl.io/free-software-and-the-concept-of-freedom-de72b8532754) | October 07, 2017 | English | Open Source |
-| [Software livre não é software grátis](https://code.likeagirl.io/software-livre-n%C3%A3o-%C3%A9-software-gr%C3%A1tis-c2e873d0ada9) | October 13, 2017 | English | Open Source |
-|
+| [Free software and the concept of freedom](https://code.likeagirl.io/free-software-and-the-concept-of-freedom-de72b8532754) | October 07, 2017 | English | Open Source |
+| [Software livre não é software grátis](https://code.likeagirl.io/software-livre-n%C3%A3o-%C3%A9-software-gr%C3%A1tis-c2e873d0ada9) | October 13, 2017 | Portuguese | Open Source |
+| [The Good Side of Being a Woman in Technology](https://code.likeagirl.io/the-good-side-of-being-a-woman-in-technology-b19313b3328e) | October 21, 2017 | English | Diversity in STEM |
+| [O lado bom de ser uma mulher na tecnologia](https://code.likeagirl.io/o-lado-bom-de-ser-uma-mulher-na-tecnologia-e19fabed3bfb) | October 23, 2017 | Portuguese | Diversity in STEM |
+| [Oficina para iniciantes da comunidade PHPWomen](https://thebeaoliveira.medium.com/convite-oficina-para-iniciantes-da-comunidade-phpwomen-c49bb8c07b1b) | November 15, 2017 | Portuguese | PHPWomenBR |
+| [Até que ponto a automatização de processos zero code é eficaz?](https://code.likeagirl.io/at%C3%A9-que-ponto-a-automatiza%C3%A7%C3%A3o-de-processos-zero-code-%C3%A9-eficaz-633314e6acc9) | November 17, 2017 | Portuguese | Business Process Management System |
 
 
 
