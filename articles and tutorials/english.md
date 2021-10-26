@@ -28,7 +28,7 @@ Here are some articles and tutorials I've been writing for the community since 2
 ## 2020 
 |  Theme | Publication date | Language | Scope | Blog |
 | ------------ | ------------ | ------------ | ------------ | ------------ | 
-| [Utilizando logs de auditoria para ter visibilidade de informações sobre o seu ambiente](https://dev.to/womakerscode/utilizando-logs-de-auditoria-para-ter-visibilidade-de-informacoes-sobre-o-seu-ambiente-5590) | | January  05, 2020 | Portuguese | Audit Logs | WoMakersCode |
+| [Utilizando logs de auditoria para ter visibilidade de informações sobre o seu ambiente](https://dev.to/womakerscode/utilizando-logs-de-auditoria-para-ter-visibilidade-de-informacoes-sobre-o-seu-ambiente-5590) | January  05, 2020 | Portuguese | Audit Logs | WoMakersCode |
 | [Coletando logs do Redis com Filebeat e Metricbeat](https://medium.com/sysadminas/coletando-logs-do-redis-com-filebeat-e-metricbeat-17abba634334) | February  01, 2020 | Portuguese | Redis, Filebeat and Metricbeat | SysAdminas |
 | [Coletando logs do HAProxy com o Filebeat](https://medium.com/sysadminas/coletando-logs-do-haproxy-com-o-filebeat-7dc0dba7c666) | February  01, 2020 | Portuguese | Filebeat and HAproxy | SysAdminas |
 | [Atendendo requerimentos do PCI-DSS com o Elastic Stack](https://medium.com/sysadminas/atendendo-requerimentos-do-pci-dss-com-o-elastic-stack-a2d30684aba) | February  01, 2020 | Portuguese | PCI-DSS | SysAdminas |
