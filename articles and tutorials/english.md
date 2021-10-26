@@ -50,6 +50,12 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Segurança da Informação](https://medium.com/sysadminas/seguran%C3%A7a-c65dd9f825c0) | August  01, 2020 | Portuguese | Information Security	 | SysAdminas |
 | [Inteligência Emocional](https://medium.com/sysadminas/intelig%C3%AAncia-emocional-b5583a62da7a) | August  01, 2020 | Portuguese | Soft Skill	 | SysAdminas |
 | [Guia de Infraestrutura de TI](https://medium.com/sysadminas/guia-de-infraestrutura-de-ti-30543bfe9922) | August  02, 2020 | Portuguese | Technology Infrastructure | SysAdminas |
+| [Como a Cappta usa o Elastic Stack para monitorar as suas transações e analisar erros](https://medium.com/cappta-on/como-a-cappta-usa-o-elastic-stack-para-monitorar-as-suas-transa%C3%A7%C3%B5es-e-analisar-erros-30d3c6dcd25f) | August  24, 2020 | Portuguese | Elastic | Cappta On |
+| [Minha experiência como contribuidora da Elastic](https://medium.com/sysadminas/minha-experi%C3%AAncia-como-contribuidora-da-elastic-8169b9a2e3bc) | September  08, 2020 | Portuguese | Community | SysAdminas |
+| [Como fazer a ingestão de logs do CloudWatch no Elasticsearch](https://medium.com/sysadminas/como-fazer-a-ingest%C3%A3o-de-logs-do-cloudwatch-no-elasticsearch-dc4e74a726d) | September  15, 2020 | Cloud Watch and AWS | SysAdminas |
+| [Como fazer a instalação e configuração inicial do Vmware ESXi Server](https://medium.com/sysadminas/como-fazer-a-instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-inicial-do-vmware-esxi-server-90b6411a449a) |  September  21, 2020 | VMware ESXi | SysAdminas |
+| [Como monitorar o Vmware vSphere utilizando o Metricbeat](https://medium.com/sysadminas/como-monitorar-o-vmware-vsphere-utilizando-o-metricbeat-904b7da8cdf4) | October 01, 2020 | VMware vSphere and Metricbeat | SysAdminas |
+| [Como me preparei para a certificação Microsoft Azure Fundamentals](https://medium.com/sysadminas/como-me-preparei-para-a-certifica%C3%A7%C3%A3o-microsoft-azure-fundamentals-52457e790270) | October 03, 2020 | Microsoft Azure Certification | SysAdminas | 
 | [Como monitorar o Apache com o Metricbeat](https://dev.to/womakerscode/como-monitorar-o-apache-com-o-metricbeat-2a9h) | December  20, 2020 | Portuguese | Apache and Metricbeat | WoMakersCode |
 
 ## 2019
