@@ -56,6 +56,12 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Como fazer a instalação e configuração inicial do Vmware ESXi Server](https://medium.com/sysadminas/como-fazer-a-instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-inicial-do-vmware-esxi-server-90b6411a449a)  | September  21, 2020 | Portuguese | VMware ESXi | SysAdminas |
 | [Como monitorar o Vmware vSphere utilizando o Metricbeat](https://medium.com/sysadminas/como-monitorar-o-vmware-vsphere-utilizando-o-metricbeat-904b7da8cdf4) | October 01, 2020 | Portuguese | VMware vSphere and Metricbeat | SysAdminas |
 | [Como me preparei para a certificação Microsoft Azure Fundamentals](https://medium.com/sysadminas/como-me-preparei-para-a-certifica%C3%A7%C3%A3o-microsoft-azure-fundamentals-52457e790270) | October 03, 2020 | Portuguese | Microsoft Azure Certification | SysAdminas | 
+| [Conhecendo o vSphere](https://medium.com/sysadminas/conhecendo-o-vsphere-bdbac5e394bb) | October 08, 2020 | Portuguese | vSphere | SysAdminas | 
+| [Como me preparei para a certificação AWS Certified Cloud Practitioner](https://medium.com/sysadminas/como-me-preparei-para-a-certifica%C3%A7%C3%A3o-aws-cloud-pratictioner-358d37fb9c60) | November 22, 2020 | Portuguese | AWS Certification | SysAdminas | 
+| [Um resumo do que aconteceu no Mês da Virtualização](https://medium.com/sysadminas/um-resumo-do-que-aconteceu-no-m%C3%AAs-da-virtualiza%C3%A7%C3%A3o-87d3767bf81e) | November 22, 2020 | Portuguese | Community | SysAdminas | 
+| [Como monitorar o Kafka utilizando o Metricbeat](https://medium.com/sysadminas/como-monitorar-o-kafka-utilizando-o-metricbeat-49c674e20a92) | December 08, 2020 | Portuguese | Kafka and Metricbeat | SysAdminas | 
+| [O blog da Comunidade SysAdminas está concorrendo ao IT Blog Awards da Cisco!](https://medium.com/sysadminas/o-blog-da-comunidade-sysadminas-est%C3%A1-concorrendo-ao-it-blog-awards-da-cisco-e7c34e3d5b86) | December 17, 2020 | Portuguese | Community | SysAdminas | 
+|[Minhas impressões e comparações iniciais sobre o Elasticsearch Service da Amazon](https://medium.com/sysadminas/minhas-impress%C3%B5es-e-compara%C3%A7%C3%B5es-iniciais-sobre-o-elasticsearch-service-da-amazon-9c83431e10da) | December 20, 2020 | Portuguese | AWS and Elasticsearch Service | SysAdminas |
 | [Como monitorar o Apache com o Metricbeat](https://dev.to/womakerscode/como-monitorar-o-apache-com-o-metricbeat-2a9h) | December  20, 2020 | Portuguese | Apache and Metricbeat | WoMakersCode |
 
 ## 2019
