@@ -19,7 +19,7 @@ I have participated in more than **35 events** as a speaker in Brazil. I give fr
 In 2020, a professional colleague and I wrote an e-book about IT infrastructure. The goal of this project was to help beginners to study through accessible content written in the Portuguese language.
 
 ### 📝 [Articles and tutorials](https://thebeaoliveira.medium.com/) 
-Since 2017 I have been writing articles and tutorials on Medium about technology, infrastructure, career, diversity, and communities. Currently, I have more than **80 articles** written in Portuguese published on this platform.
+Since 2017 I have been writing articles and tutorials on Medium about technology, infrastructure, career, diversity, and communities. Currently, I have more than **[80 articles](https://github.com/thebeaoliveira/thebeaoliveira/blob/main/articles%20and%20tutorials/english.md)** written in Portuguese published on this platform.
 
 ## Honors and Awards
 
