@@ -41,6 +41,15 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Gerando alertas de uma monitoração do Heartbeat através do Grafana: Parte 2](https://medium.com/sysadminas/gerando-alertas-de-uma-monitora%C3%A7%C3%A3o-do-heartbeat-atrav%C3%A9s-do-grafana-parte-2-26552f5709fd) | September 18, 2019 | Portuguese | Heartbeat and Grafana | SysAdminas |
 | [Criando uma monitoração básica de infraestrutura e redes com o Metricbeat e com o Packetbeat](https://medium.com/sysadminas/criando-uma-monitora%C3%A7%C3%A3o-b%C3%A1sica-de-infraestrutura-e-redes-com-o-metricbeat-e-com-o-packetbeat-7f5b7854dc3b) | September 29, 2019 | Portuguese | Metricbeat and Packetbeat | SysAdminas |
 | [Introduçāo ao Elastic Cloud](https://medium.com/sysadminas/introdu%C3%A7%C4%81o-ao-elastic-cloud-400c6f033368) | September 30, 2019 | Portuguese | Elastic Cloud | SysAdminas | 
+| [Minha experiência com o Elastic Stack em produção](https://medium.com/sysadminas/minha-experi%C3%AAncia-com-o-elastic-stack-em-produ%C3%A7%C3%A3o-e66fe0c99be7) |   October 03, 2019 | Portuguese | Elastic Stack | SysAdminas | 
+| [O que é o Index Lifecycle Management (ILM)? Como usar?](https://medium.com/sysadminas/o-que-%C3%A9-o-ilm-como-usar-aba73d51da99) | October 07, 2019 | Portuguese | Elastic Stack | SysAdminas |
+| [Auditbeat: Instalação e configuração](https://medium.com/sysadminas/elastic-siem-introdu%C3%A7%C3%A3o-e3486a0c995e) | November 03, 2019 | Portuguese | Auditbeat | SysAdminas |
+| [Elastic SIEM: Introdução](https://medium.com/sysadminas/auditbeat-instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-f6d74a51fa5e) | November 03, 2019 | Portuguese | Elastic SIEM | SysAdminas |
+| [Winlogbeat: Instalação e configuração](https://medium.com/sysadminas/winlogbeat-instala%C3%A7%C3%A3o-e-configura%C3%A7%C3%A3o-42d851f4d773) | November 03, 2019 | Portuguese | Winlogbeat | SysAdminas |
+| [Como criar views e dashboards no Kibana](https://medium.com/sysadminas/como-criar-views-e-dasboards-no-kibana-9baa83da3040) | November 04, 2019 | Portuguese | Elastic SIEM | SysAdminas |
+| [Elasticsearch: Termos Importantes](https://medium.com/sysadminas/elasticsearch-termos-importantes-b531c7245bdb) | November 06, 2019 | Portuguese | Elasticsearch | SysAdminas |
+| [Coletando logs do IIS com o Filebeat](https://medium.com/sysadminas/coletando-logs-do-iis-com-o-filebeat-38eb7b819e39) | November 30, 2019 | Portuguese | IIS and Filebeat | SysAdminas |
+| [Filebeat: Instalaçāo e configuraçāo](https://medium.com/sysadminas/filebeat-instala%C3%A7%C4%81o-e-configura%C3%A7%C4%81o-9f41b0d5dbe4) | December 01, 2019 | Portuguese | Filebeat | SysAdminas |
 
 ## 2017
 
