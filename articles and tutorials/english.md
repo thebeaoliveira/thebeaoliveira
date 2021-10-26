@@ -25,8 +25,16 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Como me preparei para o exame Google Cloud Digital Leader](https://medium.com/sysadminas/como-me-preparei-para-o-exame-google-cloud-digital-leader-5d6076340fb9) | July  26, 2021 | Portuguese | Google Cloud Certification | SysAdminas |
 | [Como criar um readme para o seu perfil no Github](https://medium.com/sysadminas/como-criar-um-readme-para-o-seu-perfil-no-github-8ca5c61ac0cd) | October  23, 2021 | Portuguese | Github | SysAdminas |
 
-
 ## 2020 
+|  Theme | Publication date | Language | Scope | Blog |
+| ------------ | ------------ | ------------ | ------------ | ------------ | 
+| [Coletando logs do Redis com Filebeat e Metricbeat](https://medium.com/sysadminas/coletando-logs-do-redis-com-filebeat-e-metricbeat-17abba634334) | February  01, 2020 | Portuguese | Redis, Filebeat and Metricbeat | SysAdminas |
+| [Coletando logs do HAProxy com o Filebeat](https://medium.com/sysadminas/coletando-logs-do-haproxy-com-o-filebeat-7dc0dba7c666) | February  01, 2020 | Portuguese | Filebeat and HAproxy | SysAdminas |
+| [Atendendo requerimentos do PCI-DSS com o Elastic Stack](https://medium.com/sysadminas/atendendo-requerimentos-do-pci-dss-com-o-elastic-stack-a2d30684aba) | February  01, 2020 | Portuguese | PCI-DSS | SysAdminas |
+| [Introduçāo ao Rancher](https://medium.com/sysadminas/introdu%C3%A7%C4%81o-ao-rancher-863366d8271f) | March  30, 2020 | Portuguese | Rancher and Docker | SysAdminas |
+| [Um guia sobre normas de segurança da informação](https://medium.com/sysadminas/um-guia-sobre-normas-de-seguran%C3%A7a-da-informa%C3%A7%C3%A3o-500400d349ee) | April  01, 2020 | Portuguese | Information Security | SysAdminas |
+| [Lista de cursos oficiais da Elastic que estão disponíveis gratuitamente](https://medium.com/sysadminas/lista-de-cursos-da-elastic-gratuitos-durante-a-quarentena-17dfdfa87ba5) | April  14, 2020 | Portuguese | Elastic | SysAdminas |
+
 
 ## 2019
 |  Theme | Publication date | Language | Scope | Blog |
