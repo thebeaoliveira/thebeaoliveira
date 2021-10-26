@@ -29,8 +29,18 @@ Here are some articles and tutorials I've been writing for the community since 2
 ## 2020 
 
 ## 2019
-
-## 2018
+|  Theme | Publication date | Language | Scope | Blog |
+| ------------ | ------------ | ------------ | ------------ | ------------ | 
+| [Um pouquinho do que rolou na oficina de PHP para mulheres na Cappta 💜](https://medium.com/cappta-on/um-pouquinho-do-que-rolou-na-oficina-de-php-para-mulheres-na-cappta-50b27d2c8ed5) |  April  29, 2019 | Portuguese | Community | Cappta On |
+| [Elasticsearch: O que é? Como usar?](https://medium.com/sysadminas/elasticsearch-o-que-%C3%A9-como-usar-c35e9b773b8a) | May  26, 2019 | Portuguese | Elasticsearch | SysAdminas |
+| [Habilitando o módulo de segurança do Elasticsearch no CentOS 7](https://medium.com/sysadminas/habilitando-o-m%C3%B3dulo-de-seguran%C3%A7a-do-elasticsearch-no-centos-7-caa08b1f4875) | June  12, 2019 | Portuguese | Elasticsearch | SysAdminas |
+| [Por que investir em diversidade nas organizações?](https://code.likeagirl.io/por-que-investir-em-diversidade-nas-organiza%C3%A7%C3%B5es-48c11aed5cc4) | June  25, 2019 | Portuguese | Diversity in STEM | Code Like a Girl |
+| [Caso de uso: APM da Elastic no ambiente da Cappta Pagamentos](https://medium.com/cappta-on/caso-de-uso-apm-da-elastic-no-ambiente-da-cappta-pagamentos-a52c94b41ffc) | July  10, 2019 | Portuguese | Elastic APM and .NET | Cappta On |
+| [Monitorando a saúde da Elastic Stack com o Stack Monitoring](https://medium.com/sysadminas/monitorando-a-sa%C3%BAde-da-elastic-stack-com-o-stack-monitoring-21a8e2e985a8) | August 05, 2019 | Portuguese | Elastic Stack | SysAdminas |
+| [Gerando alertas de uma monitoração do Heartbeat através do Grafana: Parte 1](https://medium.com/sysadminas/gerando-alertas-de-uma-monitora%C3%A7%C3%A3o-do-heartbeat-atrav%C3%A9s-do-grafana-parte-1-4b131fbdafc1) | September 01, 2019 | Portuguese | Heartbeat and Grafana | SysAdminas |
+| [Gerando alertas de uma monitoração do Heartbeat através do Grafana: Parte 2](https://medium.com/sysadminas/gerando-alertas-de-uma-monitora%C3%A7%C3%A3o-do-heartbeat-atrav%C3%A9s-do-grafana-parte-2-26552f5709fd) | September 18, 2019 | Portuguese | Heartbeat and Grafana | SysAdminas |
+| [Criando uma monitoração básica de infraestrutura e redes com o Metricbeat e com o Packetbeat](https://medium.com/sysadminas/criando-uma-monitora%C3%A7%C3%A3o-b%C3%A1sica-de-infraestrutura-e-redes-com-o-metricbeat-e-com-o-packetbeat-7f5b7854dc3b) | September 29, 2019 | Portuguese | Metricbeat and Packetbeat | SysAdminas |
+| [Introduçāo ao Elastic Cloud](https://medium.com/sysadminas/introdu%C3%A7%C4%81o-ao-elastic-cloud-400c6f033368) | September 30, 2019 | Portuguese | Elastic Cloud | SysAdminas | 
 
 ## 2017
 
