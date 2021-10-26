@@ -34,6 +34,17 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Introduçāo ao Rancher](https://medium.com/sysadminas/introdu%C3%A7%C4%81o-ao-rancher-863366d8271f) | March  30, 2020 | Portuguese | Rancher and Docker | SysAdminas |
 | [Um guia sobre normas de segurança da informação](https://medium.com/sysadminas/um-guia-sobre-normas-de-seguran%C3%A7a-da-informa%C3%A7%C3%A3o-500400d349ee) | April  01, 2020 | Portuguese | Information Security | SysAdminas |
 | [Lista de cursos oficiais da Elastic que estão disponíveis gratuitamente](https://medium.com/sysadminas/lista-de-cursos-da-elastic-gratuitos-durante-a-quarentena-17dfdfa87ba5) | April  14, 2020 | Portuguese | Elastic | SysAdminas |
+| [Integrando o Amazon ECR com o Rancher](https://medium.com/sysadminas/integrando-o-amazon-ecr-com-o-rancher-b2e0561a67fe)  | April  21, 2020 | Portuguese | AWS, ECR and Rancher | SysAdminas |
+| [Transferindo dados do MSSQL para o Elasticsearch utilizando o Logstash](https://medium.com/sysadminas/transferindo-dados-do-mssql-para-o-elasticsearch-utilizando-o-logstash-a71337302097) | April  21, 2020 | Portuguese | MSSQL, Elasticsearch and Logstash | SysAdminas |
+| [Como habilitar a coleta de dados de geolocalização com base no ip (geo ip) no packetbeat](https://medium.com/sysadminas/como-habilitar-a-coleta-de-dados-de-geolocaliza%C3%A7%C3%A3o-com-base-no-ip-geo-ip-no-packetbeat-da785688aaae) | May  01, 2020 | Portuguese | MSSQL, Elasticsearch and Logstash | SysAdminas |
+| [Treinamento e certificação free de Rancher](https://medium.com/sysadminas/lan%C3%A7amento-do-treinamento-free-de-rancher-d629a0f3efab) | May  21, 2020 | Portuguese | Rancher | SysAdminas |
+| [Provisionando um cluster com Rancher Kubernetes Engine (RKE) na AWS EC2](https://medium.com/sysadminas/provisionando-um-cluster-com-rancher-kubernetes-engine-rke-na-aws-ec2-b5ded9affb69) | July  24, 2020 | Portuguese | Rancher, RKE, EC2 and AWS | SysAdminas |
+| [Sistemas Operacionais](https://medium.com/sysadminas/sistemas-operacionais-537513e4d82c) | July  30, 2020 | Portuguese | Operating System, Linux and Windows | SysAdminas | 
+| [Redes](https://medium.com/sysadminas/redes-1bb1c007f045) | July  31, 2020 | Portuguese | Network | SysAdminas | 
+| [Containers](https://medium.com/sysadminas/containers-e4adf391de87) | July  31, 2020 | Portuguese | Containers, Kubernetes and Docker| SysAdminas |
+| [Computação em nuvem](https://medium.com/sysadminas/computa%C3%A7%C3%A3o-em-nuvem-515930304cf9)  | July  31, 2020 | Portuguese | Containers, Kubernetes and Docker| SysAdminas |
+| [Infrastructure as Code](https://medium.com/sysadminas/infrastructure-as-code-42537d03e021) | August  01, 2020 | Portuguese | Git and IaC | SysAdminas |
+
 
 
 ## 2019
