@@ -46,8 +46,9 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Infrastructure as Code](https://medium.com/sysadminas/infrastructure-as-code-42537d03e021) | August  01, 2020 | Portuguese | Git and IaC | SysAdminas |
 | [Conceitos de DevOps e SRE](https://medium.com/sysadminas/conceitos-de-devops-e-sre-bbb05bb3c9fe) | August  01, 2020 | Portuguese | DevOps and SRE | SysAdminas |
 | [Observabilidade](https://medium.com/sysadminas/observabilidade-6d9058377a63) | August  01, 2020 | Portuguese | Observability | SysAdminas |
-| [Segurança da Informação](https://medium.com/sysadminas/seguran%C3%A7a-c65dd9f825c0) | August  01, 2020 | Portuguese | Security | SysAdminas |
-
+| [Segurança da Informação](https://medium.com/sysadminas/seguran%C3%A7a-c65dd9f825c0) | August  01, 2020 | Portuguese | Information Security	 | SysAdminas |
+| [Inteligência Emocional](https://medium.com/sysadminas/intelig%C3%AAncia-emocional-b5583a62da7a) | August  01, 2020 | Portuguese | Soft Skill	 | SysAdminas |
+| [Guia de Infraestrutura de TI](https://medium.com/sysadminas/guia-de-infraestrutura-de-ti-30543bfe9922) | August  02, 2020 | Portuguese | Technology Infrastructure | SysAdminas |
 
 ## 2019
 |  Theme | Publication date | Language | Scope | Blog |
