@@ -28,6 +28,7 @@ Here are some articles and tutorials I've been writing for the community since 2
 ## 2020 
 |  Theme | Publication date | Language | Scope | Blog |
 | ------------ | ------------ | ------------ | ------------ | ------------ | 
+| [Utilizando logs de auditoria para ter visibilidade de informações sobre o seu ambiente](https://dev.to/womakerscode/utilizando-logs-de-auditoria-para-ter-visibilidade-de-informacoes-sobre-o-seu-ambiente-5590) | | January  05, 2020 | Portuguese | Audit Logs | WoMakersCode |
 | [Coletando logs do Redis com Filebeat e Metricbeat](https://medium.com/sysadminas/coletando-logs-do-redis-com-filebeat-e-metricbeat-17abba634334) | February  01, 2020 | Portuguese | Redis, Filebeat and Metricbeat | SysAdminas |
 | [Coletando logs do HAProxy com o Filebeat](https://medium.com/sysadminas/coletando-logs-do-haproxy-com-o-filebeat-7dc0dba7c666) | February  01, 2020 | Portuguese | Filebeat and HAproxy | SysAdminas |
 | [Atendendo requerimentos do PCI-DSS com o Elastic Stack](https://medium.com/sysadminas/atendendo-requerimentos-do-pci-dss-com-o-elastic-stack-a2d30684aba) | February  01, 2020 | Portuguese | PCI-DSS | SysAdminas |
@@ -49,6 +50,7 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Segurança da Informação](https://medium.com/sysadminas/seguran%C3%A7a-c65dd9f825c0) | August  01, 2020 | Portuguese | Information Security	 | SysAdminas |
 | [Inteligência Emocional](https://medium.com/sysadminas/intelig%C3%AAncia-emocional-b5583a62da7a) | August  01, 2020 | Portuguese | Soft Skill	 | SysAdminas |
 | [Guia de Infraestrutura de TI](https://medium.com/sysadminas/guia-de-infraestrutura-de-ti-30543bfe9922) | August  02, 2020 | Portuguese | Technology Infrastructure | SysAdminas |
+| [Como monitorar o Apache com o Metricbeat](https://dev.to/womakerscode/como-monitorar-o-apache-com-o-metricbeat-2a9h) | December  20, 2020 | Portuguese | Apache and Metricbeat | WoMakersCode |
 
 ## 2019
 |  Theme | Publication date | Language | Scope | Blog |
