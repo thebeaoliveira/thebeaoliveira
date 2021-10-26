@@ -44,7 +44,9 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Containers](https://medium.com/sysadminas/containers-e4adf391de87) | July  31, 2020 | Portuguese | Containers, Kubernetes and Docker| SysAdminas |
 | [Computação em nuvem](https://medium.com/sysadminas/computa%C3%A7%C3%A3o-em-nuvem-515930304cf9)  | July  31, 2020 | Portuguese | Containers, Kubernetes and Docker| SysAdminas |
 | [Infrastructure as Code](https://medium.com/sysadminas/infrastructure-as-code-42537d03e021) | August  01, 2020 | Portuguese | Git and IaC | SysAdminas |
-
+| [Conceitos de DevOps e SRE](https://medium.com/sysadminas/conceitos-de-devops-e-sre-bbb05bb3c9fe) | August  01, 2020 | Portuguese | DevOps and SRE | SysAdminas |
+| [Observabilidade](https://medium.com/sysadminas/observabilidade-6d9058377a63) | August  01, 2020 | Portuguese | Observability | SysAdminas |
+| [Segurança da Informação](https://medium.com/sysadminas/seguran%C3%A7a-c65dd9f825c0) | August  01, 2020 | Portuguese | Security | SysAdminas |
 
 
 ## 2019
