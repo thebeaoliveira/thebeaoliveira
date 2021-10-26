@@ -9,7 +9,7 @@ Since 2017 I have been supporting and creating initiatives to make the tech fiel
 ## My projects for the community
 
 ### 👩🏻‍💻 [Comunidade SysAdminas](https://github.com/sysadminas)
-I have been a Community Manager at SysAdminas since 2019. The work aims to support women who want to develop their careers in IT infrastructure through collaborative and free initiatives. 
+I have been a Community Manager at [SysAdminas](https://sysadminas.com.br/) since 2019. The work aims to support women who want to develop their careers in IT infrastructure through collaborative and free initiatives. 
 In this project, I am responsible for organizing and managing the community blog, meetups, workshops, mentorships, and certification programs.
 
 ### 🎤 [Lectures](https://github.com/thebeaoliveira/thebeaoliveira/blob/main/events/english.md)
