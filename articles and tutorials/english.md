@@ -23,6 +23,7 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Como me preparei para a Elastic Certified Observability Engineer](https://medium.com/sysadminas/como-me-preparei-para-a-elastic-certified-observability-engineer-e3d21c03ae51) | June  28, 2021 | Portuguese | Elastic Certification | SysAdminas |
 | [Como me preparei para o exame Huawei Certified Associate Cloud Service](https://medium.com/sysadminas/como-me-preparei-para-a-huawei-certified-associate-cloud-service-e119de3a30c0) | July  05, 2021 | Portuguese | Huawei Cloud Certification | SysAdminas |
 | [Como me preparei para o exame Google Cloud Digital Leader](https://medium.com/sysadminas/como-me-preparei-para-o-exame-google-cloud-digital-leader-5d6076340fb9) | July  26, 2021 | Portuguese | Google Cloud Certification | SysAdminas |
+| [Saiba como a VMware IT Academy tem apoiado a SysAdminas a especializar mulheres na área de infraestrutura de TI](https://medium.com/sysadminas/saiba-como-a-vmware-it-academy-tem-apoiado-a-sysadminas-a-especializar-mulheres-na-%C3%A1rea-de-ecd4296fced5) | October  04, 2021 | Portuguese | Community and Diversity in STEM | SysAdminas |
 | [Como criar um readme para o seu perfil no Github](https://medium.com/sysadminas/como-criar-um-readme-para-o-seu-perfil-no-github-8ca5c61ac0cd) | October  23, 2021 | Portuguese | Github | SysAdminas |
 
 ## 2020 
@@ -97,10 +98,3 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [O lado bom de ser uma mulher na tecnologia](https://code.likeagirl.io/o-lado-bom-de-ser-uma-mulher-na-tecnologia-e19fabed3bfb) | October 23, 2017 | Portuguese | Diversity in STEM | Code Like a Girl |
 | [Oficina para iniciantes da comunidade PHPWomen](https://thebeaoliveira.medium.com/convite-oficina-para-iniciantes-da-comunidade-phpwomen-c49bb8c07b1b) | November 15, 2017 | Portuguese | Community | thebeaoliveira |
 | [Até que ponto a automatização de processos zero code é eficaz?](https://code.likeagirl.io/at%C3%A9-que-ponto-a-automatiza%C3%A7%C3%A3o-de-processos-zero-code-%C3%A9-eficaz-633314e6acc9) | November 17, 2017 | Portuguese | Business Process Management System | Code Like a Girl |
-
-
-
-
-
-
-
