@@ -16,7 +16,8 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Meetup | Presentation and Organization |  [Como é trabalhar com vendas e atendimento ao cliente na área de infraestrutura](https://www.meetup.com/pt-BR/Sysadminas/events/281293277/) | SysAdminas | March 10, 2021 | Online |
 | Course | Presentation | [Minha Carreira na Tecnologia: Módulo Infraestrutura de TI](https://potenciafeminina.myedools.com/carreiras-na-tecnologia) | Rede Mulher Empreendedora & WoMakersCode | Available since April, 2021 | Online |
 | Meetup |  Presentation and Organization | [Introdução a observabilidade com o Elastic Stack](https://www.sympla.com.br/introducao-a-observabilidade-com-o-elastic-stack__1171628) | SysAdminas | April 08, 2021 | Online | 
-| Meetup | Presentation and Organization | [Como você pode se preparar para a prova Microsoft Azure Fundamentals](https://www.meetup.com/pt-BR/Sysadminas/events/281297696/) | SysAdminas | April 29, 2021 | Online |
+| Meetup | Organization | [Introdução ao Microsoft Azure](https://www.youtube.com/watch?v=Uz6wN56lb-o) | SysAdminas | April 28, 2021 | Online |
+| Meetup | Presentation and Organization | [Como você pode se preparar para a prova Microsoft Azure Fundamentals](https://www.youtube.com/watch?v=67OMLsDZrWM&t=5s) | SysAdminas | April 29, 2021 | Online |
 | Meetup | Presentation and Organization | [Como monitorar um cluster de Kubernetes com o Metricbeat](https://www.meetup.com/pt-BR/Sysadminas/events/277901781/) | SysAdminas | May 10, 2021 | Online | 
 | Meetup | Organization | [Treinamento prático de como visualizar dados no Kibana](https://www.meetup.com/pt-BR/WoMakersCode/events/278320858/) | WoMakersCode | June 03, 2021 | Online |
 | The Developers Conference (TDC)| Presentation | [Como coletar métricas do kubernetes com o metricbeat](https://twitter.com/thebeaoliveira/status/1401876427641962497/photo/1) | Elastic | August 06, 2021 | Online| 
