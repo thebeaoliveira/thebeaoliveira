@@ -27,6 +27,7 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Como criar um readme para o seu perfil no Github](https://medium.com/sysadminas/como-criar-um-readme-para-o-seu-perfil-no-github-8ca5c61ac0cd) | October  23, 2021 | Portuguese | Github | SysAdminas |
 | [Como você pode analisar os custos do Microsoft Azure utilizando o Power BI Desktop](https://medium.com/sysadminas/como-voc%C3%AA-pode-analisar-os-custos-do-microsoft-azure-utilizando-o-power-bi-desktop-316770d4866e) | November  01, 2021 | Portuguese | Azure, FinOps and Power BI | SysAdminas |
 | [Algumas dicas que podem te ajudar a diminuir a sua conta da cloud](https://medium.com/sysadminas/algumas-dicas-que-podem-te-ajudar-a-diminuir-a-sua-conta-da-cloud-961a72910a5d) | November  02, 2021 | Portuguese | Azure, AWS, OCI, GCP and FinOps | SysAdminas |
+| [Como utilizar o Data Source do Grafana para coletar informações do Azure Monitor](https://medium.com/sysadminas/como-utilizar-o-data-source-do-grafana-para-coletar-informa%C3%A7%C3%B5es-do-azure-monitor-7f57224090da) | November  05, 2021 | Portuguese | Azure Monitor and Grafana | SysAdminas |
 
 ## 2020 
 |  Theme | Publication date | Language | Scope | Blog |
