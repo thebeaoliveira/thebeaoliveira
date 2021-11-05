@@ -24,6 +24,9 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Certification Program | Organization | [VMware Certified Technical Associate - DCV 2021](https://www.sympla.com.br/programa-de-especializacao---vmware-certified-technical-associate---dcv-2021__1258864) | SysAdminas e VMware IT Academy| August 10, 2021 September 02, 2021 | Online |
 | Meetup | Presentation| Tudo o que você precisa saber para trabalhar com Infraestrutura de TI | Fatec Rio Preto | September 08, 2021 | Online |
 | VMware VMworld | Presentation | [Simplifying IT Infrastructure Concepts through Knowledge Sharing](https://blogs.vmware.com/cloud/2021/09/14/11-vmworld-sessions-that-will-help-you-make-an-impact-in-your-organization/) | VMware | October 05, 2021 | Online |
+| Elastic Meetup | Organization | [Lançamento: Elastic Women Brasil](https://community.elastic.co/events/details/elastic-elastic-women-brasil-presents-lancamento-elastic-women-brasil/) | Elastic | November 09, 2021 | Online |
+| Elastic Meetup | Presentation and Organization | [Preparação para a certificação Elastic Observability Engineer](https://community.elastic.co/events/details/elastic-elastic-women-brasil-presents-lancamento-elastic-women-brasil/) | Elastic | November 10, 2021 | Online |
+| Elastic Meetup | Presentation and Organization | [Painel sobre carreiras na área de tecnologia](https://community.elastic.co/events/details/elastic-elastic-women-brasil-presents-lancamento-elastic-women-brasil/) | Elastic | November 11, 2021 | Online |
 
 
 ## 2020 
