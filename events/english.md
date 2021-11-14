@@ -20,6 +20,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Meetup | Presentation and Organization | [Como você pode se preparar para a prova Microsoft Azure Fundamentals](https://www.youtube.com/watch?v=67OMLsDZrWM&t=5s) | SysAdminas | April 29, 2021 | Online |
 | Meetup | Presentation and Organization | [Como monitorar um cluster de Kubernetes com o Metricbeat](https://www.youtube.com/watch?v=a_oosmlgvuw&t=1s) | SysAdminas | May 10, 2021 | Online | 
 | Meetup | Organization | [Treinamento prático de como visualizar dados no Kibana](https://www.meetup.com/pt-BR/WoMakersCode/events/278320858/) | WoMakersCode | June 03, 2021 | Online |
+| DevOps Days - Rio de Janeiro | Presentation | [Painel: Implementando DevOps!](https://devopsdays.org/events/2021-rio-de-janeiro/program/lobinha) | DevOps Days | June 10, 2021 | Online |
 | The Developers Conference (TDC)| Presentation | [Como coletar métricas do kubernetes com o metricbeat](https://twitter.com/thebeaoliveira/status/1401876427641962497/photo/1) | Elastic | August 06, 2021 | Online| 
 | Certification Program | Organization | [VMware Certified Technical Associate - DCV 2021](https://www.sympla.com.br/programa-de-especializacao---vmware-certified-technical-associate---dcv-2021__1258864) | SysAdminas e VMware IT Academy| August 10, 2021 September 02, 2021 | Online |
 | Meetup | Presentation| Tudo o que você precisa saber para trabalhar com Infraestrutura de TI | Fatec Rio Preto | September 08, 2021 | Online |
