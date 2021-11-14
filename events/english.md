@@ -28,7 +28,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Elastic Meetup | Organization | [Lançamento: Elastic Women Brasil](https://community.elastic.co/events/details/elastic-elastic-women-brasil-presents-lancamento-elastic-women-brasil/) | Elastic | November 09, 2021 | Online |
 | Elastic Meetup | Presentation and Organization | [Preparação para a certificação Elastic Observability Engineer](https://community.elastic.co/events/details/elastic-elastic-women-brasil-presents-lancamento-elastic-women-brasil/) | Elastic | November 10, 2021 | Online |
 | Elastic Meetup | Presentation and Organization | [Painel sobre carreiras na área de tecnologia](https://community.elastic.co/events/details/elastic-elastic-women-brasil-presents-lancamento-elastic-women-brasil/) | Elastic | November 11, 2021 | Online |
-| She's Tech Conference | Presentation | [Carreira na área de Infraestrutura de TI](https://www.linkedin.com/feed/update/urn:li:activity:6865286523902816256/) | IT Infrastructure Career | November 19, 2021 | Online |
+| She's Tech Conference | Presentation | [Carreira na área de Infraestrutura de TI](https://www.linkedin.com/feed/update/urn:li:activity:6865286523902816256/) | She's Tech | November 19, 2021 | Online |
 
 
 ## 2020 
