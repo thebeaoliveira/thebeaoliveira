@@ -29,7 +29,7 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Algumas dicas que podem te ajudar a diminuir a sua conta da cloud](https://medium.com/sysadminas/algumas-dicas-que-podem-te-ajudar-a-diminuir-a-sua-conta-da-cloud-961a72910a5d) | November  02, 2021 | Portuguese | Azure, AWS, OCI, GCP and FinOps | SysAdminas |
 | [Como utilizar o Data Source do Grafana para coletar informações do Azure Monitor](https://medium.com/sysadminas/como-utilizar-o-data-source-do-grafana-para-coletar-informa%C3%A7%C3%B5es-do-azure-monitor-7f57224090da) | November  05, 2021 | Portuguese | Azure Monitor and Grafana | SysAdminas |
 | [Como utilizar o Data Source do Grafana para coletar informações do Google Cloud Monitoring](https://medium.com/sysadminas/como-utilizar-o-data-source-do-grafana-para-coletar-informa%C3%A7%C3%B5es-do-google-cloud-monitoring-c2e438d45207) | November  15, 2021 | Portuguese | Google Cloud Plataform and Grafana | SysAdminas |
-| [MongoDB Meetup](https://medium.com/sysadminas/meetup-certifica%C3%A7%C3%B5es-e-uma-breve-introdu%C3%A7%C3%A3o-ao-mongodb-f7004a2fd327) | November  18, 2021 | Portuguese | MongoDB | SysAdminas |
+| [Meetup, certificações e uma breve introdução ao MongoDB](https://medium.com/sysadminas/meetup-certifica%C3%A7%C3%B5es-e-uma-breve-introdu%C3%A7%C3%A3o-ao-mongodb-f7004a2fd327) | November  18, 2021 | Portuguese | MongoDB | SysAdminas |
 | [MongoDB Server no Azure](https://medium.com/sysadminas/mongodb-server-no-azure-ba1d935bf04f) | November  22, 2021 | Portuguese | Azure and MongoDB | SysAdminas |
 
 ## 2020 
