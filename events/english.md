@@ -30,6 +30,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Elastic Meetup | Presentation and Organization | [Painel sobre carreiras na área de tecnologia](https://community.elastic.co/events/details/elastic-elastic-women-brasil-presents-lancamento-elastic-women-brasil/) | Elastic | November 11, 2021 | Online |
 | She's Tech Conference | Presentation | [Carreira na área de Infraestrutura de TI](https://www.linkedin.com/feed/update/urn:li:activity:6865286523902816256/) | She's Tech | November 19, 2021 | Online |
 | Meetup | Organization and Presentation | [MongoDB Meetup](https://www.sympla.com.br/mongodb-meetup__1418442) | SysAdminas | December 02, 2021 | Online |
+| Meetup | Organization | [Soft skills necessárias na área de Infraestrutura](https://www.youtube.com/watch?v=S6hgtr3o2Po) | SysAdminas | December 08, 2021 | Online |
 
 
 ## 2020 
