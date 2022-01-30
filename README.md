@@ -21,7 +21,7 @@ In 2020, a professional colleague and I wrote an e-book about IT infrastructure.
 ### 📝 [Articles and tutorials](https://github.com/thebeaoliveira/thebeaoliveira/blob/main/articles%20and%20tutorials/english.md) 
 Since 2017 I have been writing articles and tutorials on [Medium](https://thebeaoliveira.medium.com/) about technology, infrastructure, career, diversity, and communities. Currently, I have more than **[80 articles](https://github.com/thebeaoliveira/thebeaoliveira/blob/main/articles%20and%20tutorials/english.md)** written in Portuguese published on this platform.
 
-## Honors and Awards
+## Awards and Nominations
 
 Throughout my career I have been honored to have my contributions recognized through global programs and awards. Some of them are:
 
