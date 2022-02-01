@@ -1,6 +1,14 @@
 # History of lectures and event organizations
 Here are some community events that I've been contributing since 2017. Over these 4 years I have been doing various activities and the main ones are content presentation and organization of events in general.
 
+## 2022
+
+|  Event | My activities | Presentation name   | Community or Company | Data | Local  |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Elastic Community Conference | Presentation | [O caminho de preparação para se tornar Elastic Certified Observability Engineer](https://community-conference.elastic.co/session/309659)| Elastic| February 11, 2022 | Online |
+| Meetup | Presentation and Organization | [Overview da certificação Oracle Cloud Infrastructure Foundations Associate](https://www.meetup.com/pt-BR/Sysadminas/events/283528835/) | SysAdminas | February 15, 2022 | Online |
+
+
 ## 2021
 
 |  Event | My activities | Presentation name   | Community or Company | Data | Local  |
