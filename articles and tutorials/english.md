@@ -1,7 +1,7 @@
 # History of articles and tutorials
 Here are some articles and tutorials I've been writing for the community since 2017.
 
-## 2021
+## 2022
 |  Theme | Publication date | Language | Scope | Blog |
 | ------------ | ------------ | ------------ | ------------ | ------------ | 
 | [Como começar a escrever conteúdos de tecnologia](https://medium.com/sysadminas/como-come%C3%A7ar-a-escrever-conte%C3%BAdos-de-tecnologia-9baf110c7026) | February 19, 2022 | Portuguese | Soft Skill and Career | SysAdminas |
