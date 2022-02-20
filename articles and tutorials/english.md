@@ -4,6 +4,11 @@ Here are some articles and tutorials I've been writing for the community since 2
 ## 2021
 |  Theme | Publication date | Language | Scope | Blog |
 | ------------ | ------------ | ------------ | ------------ | ------------ | 
+| [Como começar a escrever conteúdos de tecnologia](https://medium.com/sysadminas/como-come%C3%A7ar-a-escrever-conte%C3%BAdos-de-tecnologia-9baf110c7026) | February 19, 2022 | Portuguese | Soft Skill and Career | SysAdminas |
+
+## 2021
+|  Theme | Publication date | Language | Scope | Blog |
+| ------------ | ------------ | ------------ | ------------ | ------------ | 
 | [Como monitorar uma instância EC2 utilizando o infrastructure agent do New Relic](https://medium.com/sysadminas/como-monitorar-uma-inst%C3%A2ncia-ec2-utilizando-o-infrastructure-agent-do-new-relic-e1b4865223b7) | January  06, 2021 | Portuguese | New Relic, Observability and AWS | SysAdminas |
 | [Monitore suas instâncias do EC2 com o AWS Module do Metricbeat](https://medium.com/sysadminas/monitore-suas-inst%C3%A2ncias-do-ec2-com-o-aws-module-do-metricbeat-f64e2a433d17) | January  18, 2021 | Portuguese | Elastic Stack, Observability and AWS | SysAdminas |
 | [Como coletar métricas do Windows utilizando o Metricbeat](https://medium.com/sysadminas/como-coletar-m%C3%A9tricas-do-windows-utilizando-o-metricbeat-adf557888c21) | January  22, 2021 | Portuguese | Elastic Stack, Observability and Windows | SysAdminas |
