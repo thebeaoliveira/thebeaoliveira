@@ -7,9 +7,9 @@ Here are some community events that I've been contributing since 2017. Over thes
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | Elastic Community Conference | Presentation | [O caminho de preparação para se tornar Elastic Certified Observability Engineer](https://community-conference.elastic.co/session/309659)| Elastic| February 11, 2022 | Online |
 | Meetup | Presentation and Organization | [Overview da certificação Oracle Cloud Infrastructure Foundations Associate](https://www.meetup.com/pt-BR/Sysadminas/events/283528835/) | SysAdminas | February 15, 2022 | Online |
-| Meetup | Organization | [Containers e Kubernetes, como eles impactam a vida do desenvolvedor e operação?](https://www.meetup.com/Sysadminas/events/284098200/) | SysAdminas | March 08, 2022 | Online |
-| Meetup | Presentation and Organization | [Boas práticas de segurança no GCP e a preparação para o exame GCP Digital Leader](https://www.meetup.com/Sysadminas/events/284098395/) | SysAdminas | March 09, 2022 | Online |
-| Meetup | Presentation and Organization | [Painel sobre carreira em tecnologia](https://www.meetup.com/Sysadminas/events/284099161/) | SysAdminas | March 10, 2022 | Online |
+| Meetup | Organization | [Containers e Kubernetes, como eles impactam a vida do desenvolvedor e operação?](https://www.meetup.com/Sysadminas/events/284098200/) | SysAdminas & Google Cloud| March 08, 2022 | Online |
+| Meetup | Presentation and Organization | [Boas práticas de segurança no GCP e a preparação para o exame GCP Digital Leader](https://www.meetup.com/Sysadminas/events/284098395/) | SysAdminas & Google Cloud | March 09, 2022 | Online |
+| Meetup | Presentation and Organization | [Painel sobre carreira em tecnologia](https://www.meetup.com/Sysadminas/events/284099161/) | SysAdminas & Google Cloud | March 10, 2022 | Online |
 
 
 
