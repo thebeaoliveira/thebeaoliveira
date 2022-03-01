@@ -1,5 +1,5 @@
 # History of lectures and event organizations
-Here are some community events that I've been contributing since 2017. Over these 4 years I have been doing various activities and the main ones are content presentation and organization of events in general.
+Here are some community events that I've been contributing since 2017. Over these 5 years I have been doing various activities and the main ones are content presentation and organization of events in general.
 
 ## 2022
 
