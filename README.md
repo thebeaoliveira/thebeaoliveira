@@ -30,7 +30,7 @@ Throughout my career I have been honored to have my contributions recognized thr
 - [Elastic Gold Contributor](https://www.credential.net/b0e79f6f-3982-46ae-b0bf-c9427c699dd3#gs.dhn8w1) in 2020 and 2021
 - [VMware vExpert](https://vexpert.vmware.com/directory/7107) in 2021
 - [Alura Stars](https://www.alura.com.br/stars) in 2022
-- Nominated for [WICxAllies Awards](https://womenincloud.com/16574-2/) in 2022
+- Finalist in the [WICxAllies Sponsor Award] (https://womenincloud.com/16574-2/) in 2022
 - Finalist in the [IT Blog Awards: Hosted by Cisco](https://www.ciscofeedback.vovici.com/se/705E3ECD767BAEDD) in 2022
 
 
