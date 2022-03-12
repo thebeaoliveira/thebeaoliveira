@@ -35,7 +35,7 @@ Throughout my career I have been honored to have my contributions recognized thr
 - [Elastic Gold Contributor](https://www.credential.net/a74bdf9d-879d-489c-b4d7-b9e5f703252d#gs.svqrrh) awarded by Elastic in February 2020 
 - [Top Writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link) awarded by Medium in November 2017
 
-See more details about the awards, honors and nominations here
+See more details about the awards, honors and nominations [here](https://github.com/thebeaoliveira/thebeaoliveira/blob/main/awards/awards.md)
 
 ## My contacts
 
