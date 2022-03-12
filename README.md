@@ -28,7 +28,7 @@ Throughout my career I have been honored to have my contributions recognized thr
 - Top writer in the Women In Tech category on [Medium](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link) in 2017
 - [Elastic Search Awards](https://www.elastic.co/pt/blog/introducing-the-2020-elastic-search-awards-honorees-for-the-americas-region) - Comunidade SysAdminas in 2020
 - [Elastic Gold Contributor](https://www.credential.net/b0e79f6f-3982-46ae-b0bf-c9427c699dd3#gs.dhn8w1) in 2020 and 2021
-- [VMware vExpert](https://vexpert.vmware.com/directory/7107) in 2021
+- [VMware vExpert](https://vexpert.vmware.com/directory/7107) in 2021 and 2022
 - [Alura Stars](https://www.alura.com.br/stars) in 2022
 - Finalist in the [WICxAllies Sponsor Award](https://womenincloud.com/16574-2/) in 2022
 - [Elastic Bronze Contributor](https://www.credential.net/540804f4-8478-468c-8e3a-c02b6f7d84f3#gs.pamf41) in 2022
