@@ -49,7 +49,7 @@ The SysAdminas Community was recognized in 2020 in the Cause Awards category of 
 *Awarded by Elastic in February 2020*
 
 The Elastic Contributor Program is Elastic's global evangelism and advocacy program.
-In 2020 I participated in the program and was recognized in the Gold category, being the first woman in Brazil to obtain this title. See more details [here](https://www.youtube.com/watch?v=jymrgv5gTis)
+In 2020 I participated in the program and was recognized in the Gold category, being the first woman in Brazil to obtain this title. See more details [here](https://www.youtube.com/watch?v=jymrgv5gTis).
 
 ## [Top Writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link) 
 *Awarded by Medium in November 2017*
