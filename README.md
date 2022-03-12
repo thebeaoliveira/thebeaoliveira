@@ -27,10 +27,8 @@ Throughout my career I have been honored to have my contributions recognized thr
 
 - [Top writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link)
 Awarded by Medium in November 2017
-
 - [Top writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link)
 Awarded by Medium in November 2017
-
 - [Top writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link)
 Awarded by Medium in November 2017
 
