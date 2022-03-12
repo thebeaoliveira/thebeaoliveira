@@ -25,9 +25,11 @@ Since 2017 I have been writing articles and tutorials on [Medium](https://thebea
 
 Throughout my career I have been honored to have my contributions recognized through global programs and awards. Some of them are:
 
-- [Top writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link) awarded by Medium in November 2017
-- [Top writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link) awarded by Medium in November 2017
-- [Top writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link) awarded by Medium in November 2017
+- [VMware vExpert](https://vexpert.vmware.com/directory/7107) awarded by VMware in 2021 
+- [Elastic Gold Contributor](https://www.credential.net/b0e79f6f-3982-46ae-b0bf-c9427c699dd3#gs.svp19z) awarded by Elastic in 2021 
+- [Elastic Search Awards: Cause Award category](https://www.elastic.co/pt/blog/introducing-the-2020-elastic-search-awards-honorees-for-the-americas-region) awarded by Elastic in 2020 
+- [Elastic Gold Contributor](https://www.credential.net/a74bdf9d-879d-489c-b4d7-b9e5f703252d#gs.svqrrh) awarded by Elastic in 2020 
+- [Top Writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link) awarded by Medium in November 2017
 
 See more details about the awards, honors and nominations here
 
