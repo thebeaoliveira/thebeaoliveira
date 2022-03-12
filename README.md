@@ -25,12 +25,9 @@ Since 2017 I have been writing articles and tutorials on [Medium](https://thebea
 
 Throughout my career I have been honored to have my contributions recognized through global programs and awards. Some of them are:
 
-- [Top writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link)
-Awarded by Medium in November 2017
-- [Top writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link)
-Awarded by Medium in November 2017
-- [Top writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link)
-Awarded by Medium in November 2017
+- [Top writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link) awarded by Medium in November 2017
+- [Top writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link) awarded by Medium in November 2017
+- [Top writer: Women In Tech category](https://www.instagram.com/p/BbHgTgWHw-k/?utm_medium=copy_link) awarded by Medium in November 2017
 
 See more details about the awards, honors and nominations here
 
