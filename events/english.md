@@ -10,8 +10,8 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Meetup | Organization | [Containers e Kubernetes, como eles impactam a vida do desenvolvedor e operação?](https://www.meetup.com/Sysadminas/events/284098200/) | SysAdminas & Google Cloud| March 08, 2022 | Online |
 | Meetup | Presentation and Organization | [Boas práticas de segurança no GCP e a preparação para o exame GCP Digital Leader](https://www.meetup.com/Sysadminas/events/284098395/) | SysAdminas & Google Cloud | March 09, 2022 | Online |
 | Meetup | Presentation and Organization | [Painel sobre carreira em tecnologia](https://www.meetup.com/Sysadminas/events/284099161/) | SysAdminas & Google Cloud | March 10, 2022 | Online |
+| Live | presentation| Hipsters.Talks - Infraestrutura como Código | Alura | April 04, 2022 | Online |
 | Workshop | Organization| [Workshop I am Remarkable](https://www.meetup.com/pt-BR/Sysadminas/events/284735070/) | Elastic Women User Group & Google | April 12, 2022 | Online |
-
 
 
 ## 2021
