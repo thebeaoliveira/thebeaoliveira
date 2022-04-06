@@ -12,6 +12,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Meetup | Presentation and Organization | [Painel sobre carreira em tecnologia](https://www.meetup.com/Sysadminas/events/284099161/) | SysAdminas & Google Cloud | March 10, 2022 | Online |
 | Live | Presentation| [Hipsters.Talks - Infraestrutura como Código](https://www.twitch.tv/videos/1447409598) | Alura | April 04, 2022 | Online |
 | Workshop | Organization| [Workshop I am Remarkable](https://www.meetup.com/pt-BR/Sysadminas/events/284735070/) | Elastic Women User Group & Google | April 12, 2022 | Online |
+| Meetup | Organization and Presentation | [Microsoft Azure Fundamentals](https://www.youtube.com/watch?v=EM5iEwHAeac) | SysAdminas | May 05, 2022 | Online |
 
 
 ## 2021
