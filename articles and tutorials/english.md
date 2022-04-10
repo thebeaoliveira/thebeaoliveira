@@ -6,6 +6,9 @@ Here are some articles and tutorials I've been writing for the community since 2
 | ------------ | ------------ | ------------ | ------------ | ------------ | 
 | [Como começar a escrever conteúdos de tecnologia](https://medium.com/sysadminas/como-come%C3%A7ar-a-escrever-conte%C3%BAdos-de-tecnologia-9baf110c7026) | February 19, 2022 | Portuguese | Soft Skill and Career | SysAdminas |
 | [Um overview das certificações de nível fundamentals da AWS, Google Cloud, Azure e Oracle Cloud](https://medium.com/sysadminas/um-overview-das-certifica%C3%A7%C3%B5es-de-n%C3%ADvel-fundamentals-da-aws-google-cloud-azure-e-oracle-cloud-4dc47ded219f) | March 28, 2022 | Portuguese | AWS, Google Cloud, Azure and Oracle Cloud | SysAdminas |
+| [Certificações para iniciantes em cloud](https://medium.com/sysadminas/certifica%C3%A7%C3%B5es-para-iniciantes-em-cloud-6b92f78cde16) | April 07, 2022 | Portuguese | Certification & Cloud Computing | SysAdminas |
+| [Cloud Financial Operations (FinOps)](https://medium.com/sysadminas/cloud-financial-operations-finops-9373959e2dda) | April 07, 2022 | Portuguese | FinOps & Cloud Computing | SysAdminas |
+| [Cloud Center of Excellence (CCoE)](https://medium.com/sysadminas/cloud-center-of-excellence-ccoe-6f01a3dc376a) | April 10, 2022 | Portuguese | CCoE & Cloud Computing | SysAdminas |
 
 ## 2021
 |  Theme | Publication date | Language | Scope | Blog |
