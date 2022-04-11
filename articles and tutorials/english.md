@@ -9,6 +9,7 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Certificações para iniciantes em cloud](https://medium.com/sysadminas/certifica%C3%A7%C3%B5es-para-iniciantes-em-cloud-6b92f78cde16) | April 07, 2022 | Portuguese | Certification & Cloud Computing | SysAdminas |
 | [Cloud Financial Operations (FinOps)](https://medium.com/sysadminas/cloud-financial-operations-finops-9373959e2dda) | April 07, 2022 | Portuguese | FinOps & Cloud Computing | SysAdminas |
 | [Cloud Center of Excellence (CCoE)](https://medium.com/sysadminas/cloud-center-of-excellence-ccoe-6f01a3dc376a) | April 10, 2022 | Portuguese | CCoE & Cloud Computing | SysAdminas |
+| [Comparação dos serviços da AWS, Azure e GCP](https://medium.com/sysadminas/compara%C3%A7%C3%A3o-dos-servi%C3%A7os-da-aws-azure-e-gcp-88375e00fbec) | April 11, 2022 | Portuguese | Cloud Comparison, AWS, Azure and GCP | SysAdminas |
 
 ## 2021
 |  Theme | Publication date | Language | Scope | Blog |
