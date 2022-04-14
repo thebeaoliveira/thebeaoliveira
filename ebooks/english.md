@@ -6,7 +6,7 @@ Esse ebook foi publicado em 2022 com foco em pessoas que possuem o interesse de 
 
 Nesse material são abordados diversos tópicos fundamentais relacionados a nuvem, incluindo os modelos de implantação de cloud, principais providers, continuidade do negócio usando a cloud, estratégias de migração para a cloud, Cloud Center of Excellence, Cloud Financial Operations e dicas de certificações de cloud pública para iniciantes, por exemplo.
 
-Você pode ler o ebook completo na Open Library, no Medium e no [LeanPub](https://leanpub.com/guia-da-computacao-em-nuvem/).
+Você pode ler o ebook completo gratuitamente na Open Library, no Medium e no [LeanPub](https://leanpub.com/guia-da-computacao-em-nuvem/).
 
 
 ## Guia de Infraestrutura de TI
