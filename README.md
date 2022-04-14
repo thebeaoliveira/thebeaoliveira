@@ -15,8 +15,9 @@ In this project, I am responsible for organizing and managing the community blog
 ### 🎤 [Lectures](https://github.com/thebeaoliveira/thebeaoliveira/blob/main/events/english.md)
 I have participated in more than **[35 events](https://github.com/thebeaoliveira/thebeaoliveira/blob/main/events/english.md)** as a speaker in Brazil. I give free lectures to the community focusing on IT infrastructure, observability, and diversity in STEM.
 
-### 📚 [Free ebook](https://openlibrary.org/books/OL28653878M/Guia_de_Infraestrutura_de_TI#reader-observations)
-In 2020, a professional colleague and I wrote an e-book about IT infrastructure. The goal of this project was to help beginners to study through accessible content written in the Portuguese language.
+### 📚 [Free ebooks](https://openlibrary.org/books/OL28653878M/Guia_de_Infraestrutura_de_TI#reader-observations)
+I am co-author of two ebooks, the first was published in 2020 and is about [IT Infrastructure](https://openlibrary.org/books/OL28653878M/Guia_de_Infraestrutura_de_TI#reader-observations), the second was published in 2022 and is focused on [Cloud Computing](https://leanpub.com/guia-da-computacao-em-nuvem/).
+The goal of these projects was to help beginners to study through accessible content written in the portuguese language.
 
 ### 📝 [Articles and tutorials](https://github.com/thebeaoliveira/thebeaoliveira/blob/main/articles%20and%20tutorials/english.md) 
 Since 2017 I have been writing articles and tutorials on [Medium](https://thebeaoliveira.medium.com/) about technology, infrastructure, career, diversity, and communities. Currently, I have more than **[80 articles](https://github.com/thebeaoliveira/thebeaoliveira/blob/main/articles%20and%20tutorials/english.md)** written in Portuguese published on this platform.
