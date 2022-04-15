@@ -4,10 +4,10 @@ I am co-author of two ebooks. The first was published in 2020 is about IT Infras
 ## Cloud Computing Guide
 *Portuguese: Guia da Computação em Nuvem: Conceito, Prática e Capacitação*
 
-Esse ebook foi publicado em 2022 com foco em pessoas que possuem o interesse de iniciar seus estudos no universo da cloud computing. 
+This ebook was published in 2022 with a focus on people who are interested in starting their studies in cloud computing in Portuguese.
 
-Nesse material são abordados diversos tópicos fundamentais relacionados a nuvem, incluindo os modelos de implantação de cloud, principais providers, continuidade do negócio usando a cloud, estratégias de migração para a cloud, Cloud Center of Excellence, Cloud Financial Operations e dicas de certificações de cloud pública para iniciantes, por exemplo.
-Você pode ler o ebook completo gratuitamente na Open Library, no Medium e no [LeanPub](https://leanpub.com/guia-da-computacao-em-nuvem/).
+This material covers fundamental cloud-related topics, including cloud deployment models, leading cloud providers, business continuity using the cloud, cloud migration strategies, FinOps, CCoE, and public cloud certification tips for beginners, for example. .
+You can read the full ebook for free at the Open Library, Medium, and [LeanPub](https://leanpub.com/guia-da-computacao-em-nuvem/).
 
 
 ## IT Infrastructure Guide
