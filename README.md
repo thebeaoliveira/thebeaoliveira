@@ -20,7 +20,7 @@ I am co-author of two ebooks. The first was published in 2020 is about [IT Infra
 The goal of these projects was to help beginners to study through accessible content written in the portuguese language.
 
 ### 📝 [Articles and tutorials](https://github.com/thebeaoliveira/thebeaoliveira/blob/main/articles%20and%20tutorials/english.md) 
-Since 2017 I have been writing articles and tutorials on [Medium](https://thebeaoliveira.medium.com/) about technology, infrastructure, career, diversity, and communities. Currently, I have more than **[80 articles](https://github.com/thebeaoliveira/thebeaoliveira/blob/main/articles%20and%20tutorials/english.md)** written in Portuguese published on this platform.
+Since 2017 I have been writing articles and tutorials on [Medium](https://thebeaoliveira.medium.com/) about technology, infrastructure, career, diversity, and communities. Currently, I have more than **[90 articles](https://github.com/thebeaoliveira/thebeaoliveira/blob/main/articles%20and%20tutorials/english.md)** written in Portuguese published on this platform.
 
 ## Awards, Honors and Nominations
 
