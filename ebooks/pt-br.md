@@ -1,6 +1,6 @@
 # Free ebooks
-Sou coautora de dois ebooks que são focados em Infraestrutura de TI e Cloud Computing. 
-O objetivo desses projetos é ajudar pessoas iniciantes a estudar por meio de um conteúdo acessível, gratuito e escrito na língua portuguesa.
+Sou coautora de dois ebooks gratuitos focados em Infraestrutura de TI e Cloud Computing. 
+O objetivo desses projetos é ajudar pessoas iniciantes a estudar por meio de conteúdos acessíveis, livres e escritos em língua portuguesa.
 
 
 ## Guia da Computação em Nuvem: Conceito, Prática e Capacitação
