@@ -1,7 +1,7 @@
 # Free ebooks
 
-I'm co-author of two free ebooks, foccused in IT Infrastructure and Cloud Computing.
-The objecitve in these projects are to help begginers to study through accessible ways, free and written in brazilian portuguese.
+I'm co-author of two free ebooks, focused in IT Infrastructure and Cloud Computing.
+The objective in these projects are to help beginners to study through accessible ways, free and written in brazilian portuguese.
 
 ## Cloud Computing Guide: Concept, Practice and Learning
 *Portuguese: Guia da Computação em Nuvem: Conceito, Prática e Capacitação*
