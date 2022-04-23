@@ -11,8 +11,8 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Cloud Center of Excellence (CCoE)](https://medium.com/sysadminas/cloud-center-of-excellence-ccoe-6f01a3dc376a) | April 10, 2022 | Portuguese | CCoE & Cloud Computing | SysAdminas |
 | [Comparação dos serviços da AWS, Azure e GCP](https://medium.com/sysadminas/compara%C3%A7%C3%A3o-dos-servi%C3%A7os-da-aws-azure-e-gcp-88375e00fbec) | April 11, 2022 | Portuguese | Cloud Comparison, AWS, Azure and GCP | SysAdminas |
 | [Continuidade de negócio usando a cloud](https://medium.com/sysadminas/continuidade-de-neg%C3%B3cio-usando-a-cloud-bf50e2543d88) | April 12, 2022 | Portuguese | Business Continuity & Cloud Computing | SysAdminas |
-| [Ebook: Guia da Computação em Nuvem - Conceito, Prática e Capacitação](https://leanpub.com/guia-da-computacao-em-nuvem/) | April 12, 2022 | Portuguese | Cloud Computing | SysAdminas |
 | [Modelos de Implantação de Cloud](https://medium.com/sysadminas/modelos-de-implanta%C3%A7%C3%A3o-de-cloud-3d1256148a6c) | April 15, 2022 | Portuguese | Cloud Computing | SysAdminas |
+| [Guia da Computação em Nuvem - Conceito, Prática e Capacitação](https://medium.com/sysadminas/guia-da-computa%C3%A7%C3%A3o-em-nuvem-conceito-pr%C3%A1tica-capacita%C3%A7%C3%A3o-706a8b7e555) | April 17, 2022 | Portuguese | Cloud Computing | SysAdminas |
 
 ## 2021
 |  Theme | Publication date | Language | Scope | Blog |
