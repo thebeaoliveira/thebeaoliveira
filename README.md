@@ -30,7 +30,7 @@ Throughout my career I have been honored to have my contributions recognized thr
 - [VMware vExpert](https://vexpert.vmware.com/directory/7107) awarded by VMware in February 2022 
 - [Elastic Bronze Contributor](https://www.credential.net/540804f4-8478-468c-8e3a-c02b6f7d84f3#gs.pamf41) awarded by Elastic in February 2022 
 - [Alura Stars](https://www.alura.com.br/stars) awarded by Alura in January 2022
-- [Finalist in the WICxAllies: Sponsor Award category](https://youtu.be/QvwqjWODfe4?t=208) awarded by Women In Cloud in January 2022
+- [Finalist in the Women In Cloud Allies Awards](https://youtu.be/QvwqjWODfe4?t=208) awarded by Women In Cloud in January 2022
 - [VMware vExpert](https://vexpert.vmware.com/directory/7107) awarded by VMware in February 2021 
 - [Elastic Gold Contributor](https://www.credential.net/b0e79f6f-3982-46ae-b0bf-c9427c699dd3#gs.svp19z) awarded by Elastic in February 2021 
 - [Elastic Search Awards: Cause Award category](https://www.elastic.co/pt/blog/introducing-the-2020-elastic-search-awards-honorees-for-the-americas-region) awarded by Elastic in March 2020 
