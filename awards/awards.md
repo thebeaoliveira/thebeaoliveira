@@ -46,10 +46,6 @@ The VMware vExpert program is VMware's global evangelism and advocacy program.
 
 The Elastic Contributor Program is Elastic's global evangelism and advocacy program.
 
-## [Elastic Search Awards: Cause Award category](https://www.elastic.co/pt/blog/introducing-the-2020-elastic-search-awards-honorees-for-the-americas-region) 
-*Awarded by Elastic in March 2020* 
-
-The SysAdminas Community was recognized in 2020 in the Cause Awards category of the Elastic Search Awards as an organization that is using Elastic technologies with the objective of bringing more inclusion of women in the technology.
 
 ## [Elastic Gold Contributor](https://www.credential.net/a74bdf9d-879d-489c-b4d7-b9e5f703252d#gs.svqrrh) 
 *Awarded by Elastic in February 2020*
