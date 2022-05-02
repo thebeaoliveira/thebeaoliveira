@@ -22,7 +22,7 @@ The VMware vExpert program is VMware's global evangelism and advocacy program.
 ## [Elastic Bronze Contributor](https://www.credential.net/540804f4-8478-468c-8e3a-c02b6f7d84f3#gs.pamf41) 
 *Awarded by Elastic in February 2022* 
 
-The Elastic Contributor Program is Elastic's global evangelism and advocacy program.
+The Elastic Contributor Program is Elastic's global evangelism and advocacy program. 2022 was my third year participating in the program and being recognized.
 
 ## [Alura Stars](https://www.alura.com.br/stars) 
 *Awarded by Alura in January 2022*
@@ -39,13 +39,12 @@ See more details [here](https://womenincloud.com/16574-2/).
 ## [VMware vExpert](https://vexpert.vmware.com/directory/7107) 
 *Awarded by VMware in February 2021* 
 
-The VMware vExpert program is VMware's global evangelism and advocacy program.
+The VMware vExpert program is VMware's global evangelism and advocacy program. 2021 was my first year participating in the program and being recognized.
 
 ## [Elastic Gold Contributor](https://www.credential.net/b0e79f6f-3982-46ae-b0bf-c9427c699dd3#gs.svp19z)
 *Awarded by Elastic in February 2021* 
 
-The Elastic Contributor Program is Elastic's global evangelism and advocacy program.
-
+The Elastic Contributor Program is Elastic's global evangelism and advocacy program. 2021 was my second year participating in the program and being recognized.
 
 ## [Elastic Gold Contributor](https://www.credential.net/a74bdf9d-879d-489c-b4d7-b9e5f703252d#gs.svqrrh) 
 *Awarded by Elastic in February 2020*
