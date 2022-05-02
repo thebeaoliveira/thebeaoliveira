@@ -25,6 +25,7 @@ Since 2017 I have been writing articles and tutorials on [Medium](https://thebea
 ## Awards, Honors and Nominations
 
 Throughout my career I have been honored to have my contributions recognized through global programs and awards. Some of them are:
+- [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004790?fullName=Beatriz%20Oliveira) awarded by Microsoft in May 2022
 - [IT Blog Awards](https://www.cisco.com/c/en/us/training-events/events-webinars/influencer-hub/blog-awards.html#~2021-winners-top-10-25-50) awarded by Cisco in March 2022
 - [VMware vExpert](https://vexpert.vmware.com/directory/7107) awarded by VMware in February 2022 
 - [Elastic Bronze Contributor](https://www.credential.net/540804f4-8478-468c-8e3a-c02b6f7d84f3#gs.pamf41) awarded by Elastic in February 2022 
