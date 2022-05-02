@@ -2,6 +2,12 @@
 
 Throughout my career I have been honored to have my contributions recognized through global programs and awards. Some of them are:
 
+## [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004790?fullName=Beatriz%20Oliveira) 
+*Awarded by Microsoft in May 2022*
+
+The MVP (Most Valuable Professional) is a Microsoft program designed to recognize people's contributions to the technology community. I am currently MVP in the Cloud and Datacenter Management category.
+
+
 ## [IT Blog Awards](https://www.cisco.com/c/en/us/training-events/events-webinars/influencer-hub/blog-awards.html#~2021-winners-top-10-25-50) 
 *Awarded by Cisco in March 2022*
 
@@ -19,7 +25,7 @@ The Elastic Contributor Program is Elastic's global evangelism and advocacy prog
 
 In 2022 I joined Alura Stars, a brazilian program that recognizes individuals who share knowledge, support and encourage more people to transform their lives through technology. See more details [here](https://www.alura.com.br/stars).
 
-## [Finalist in the WICxAllies: Sponsor Award category](https://youtu.be/QvwqjWODfe4?t=208) 
+## [Finalist in the Women In Cloud Allies Awards](https://youtu.be/QvwqjWODfe4?t=208) 
 *Awarded by Women In Cloud in January 2022*
 
 The WICxALLIES Awards recognize the individuals who demonstrate allyship by empowering women in tech through Advocacy, Listening, Lifting, Including, Elevating and Sponsoring. 
