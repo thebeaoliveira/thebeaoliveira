@@ -14,6 +14,10 @@ The MVP (Most Valuable Professional) is a Microsoft program designed to recogniz
 The IT Blog Awards, hosted by Cisco, aims to celebrate and recognize independent technology content creators for the inspirational and educational blogs, podcasts and videos that are created throughout the year. 
 In 2022, my blog on Medium was one of the 25 winners, being one of the few in Portuguese.
 
+## [VMware vExpert](https://vexpert.vmware.com/directory/7107) 
+*Awarded by VMware in February 2022* 
+
+The VMware vExpert program is VMware's global evangelism and advocacy program.
 
 ## [Elastic Bronze Contributor](https://www.credential.net/540804f4-8478-468c-8e3a-c02b6f7d84f3#gs.pamf41) 
 *Awarded by Elastic in February 2022* 
@@ -33,7 +37,7 @@ In 2022, I was a finalist for the Sponsor Award, a category that recognizes a le
 See more details [here](https://womenincloud.com/16574-2/).
 
 ## [VMware vExpert](https://vexpert.vmware.com/directory/7107) 
-*Awarded by VMware in February 2021 and 2022* 
+*Awarded by VMware in February 2021* 
 
 The VMware vExpert program is VMware's global evangelism and advocacy program.
 
