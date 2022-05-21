@@ -13,6 +13,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Live | Presentation| [Hipsters.Talks - Infraestrutura como Código](https://www.twitch.tv/videos/1447409598) | Alura | April 04, 2022 | Online |
 | Workshop | Organization| [Workshop I am Remarkable](https://www.meetup.com/pt-BR/Sysadminas/events/284735070/) | Elastic Women User Group & Google | April 12, 2022 | Online |
 | Meetup | Organization and Presentation | [Microsoft Azure Fundamentals](https://globalazure.net/sessions/332560) | SysAdminas & Global Azure | May 05, 2022 | Online |
+| Podcast | Presentation | [Participação no podcast scuba.dev  onde falo sobre minha carreira em tecnologia](https://open.spotify.com/episode/3MzDHdZfAu4rZtnwqJqCww?si=61fb573e4b7e41d7) | Alura | May 19, 2022 | Online |
 
 
 ## 2021
