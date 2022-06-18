@@ -16,7 +16,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Podcast | Presentation | [Participação no podcast scuba.dev  onde falo sobre minha carreira em tecnologia](https://open.spotify.com/episode/3MzDHdZfAu4rZtnwqJqCww?si=61fb573e4b7e41d7) | Alura | May 19, 2022 | Online |
 | Meetup |  Organization | [Entrando no mercado de cloud e data](https://www.meetup.com/pt-BR/sysadminas/events/286120253/) | Thoughtworks & SysAdminas | May 30, 2022 | Online | 
 | Meetup | Organization | [Gerenciando configuração com Terraform](https://www.meetup.com/pt-BR/sysadminas/events/286548257/) | Thoughtworks & SysAdminas | June 15, 2022 | Online | 
-| Scholarship | Organization and Presentation | vmwares://www.meetup.com/pt-BR/sysadminas/events/286548257/) | Thoughtworks & SysAdminas | June 15, 2022 | Online | 
+| Scholarship | Organization and Presentation | [Programa de Especialização - VMware Certified Technical Associate - App Modernization](https://www.meetup.com/pt-BR/sysadminas/events/285347242/) | VMware & SysAdminas | June 20 - July 13, 2022 | Online | 
 
 
 ## 2021
