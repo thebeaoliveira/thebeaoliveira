@@ -14,6 +14,9 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Workshop | Organization| [Workshop I am Remarkable](https://www.meetup.com/pt-BR/Sysadminas/events/284735070/) | Elastic Women User Group & Google | April 12, 2022 | Online |
 | Meetup | Organization and Presentation | [Microsoft Azure Fundamentals](https://globalazure.net/sessions/332560) | SysAdminas & Global Azure | May 05, 2022 | Online |
 | Podcast | Presentation | [Participação no podcast scuba.dev  onde falo sobre minha carreira em tecnologia](https://open.spotify.com/episode/3MzDHdZfAu4rZtnwqJqCww?si=61fb573e4b7e41d7) | Alura | May 19, 2022 | Online |
+| Meetup |  Organization | [Entrando no mercado de cloud e data](https://www.meetup.com/pt-BR/sysadminas/events/286120253/) | Thoughtworks & SysAdminas | May 30, 2022 | Online | 
+| Meetup | Organization | [Gerenciando configuração com Terraform](https://www.meetup.com/pt-BR/sysadminas/events/286548257/) | Thoughtworks & SysAdminas | June 15, 2022 | Online | 
+| Scholarship | Organization and Presentation | vmwares://www.meetup.com/pt-BR/sysadminas/events/286548257/) | Thoughtworks & SysAdminas | June 15, 2022 | Online | 
 
 
 ## 2021
