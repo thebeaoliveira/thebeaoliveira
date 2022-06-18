@@ -13,6 +13,9 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Continuidade de negócio usando a cloud](https://medium.com/sysadminas/continuidade-de-neg%C3%B3cio-usando-a-cloud-bf50e2543d88) | April 12, 2022 | Portuguese | Business Continuity & Cloud Computing | SysAdminas |
 | [Modelos de Implantação de Cloud](https://medium.com/sysadminas/modelos-de-implanta%C3%A7%C3%A3o-de-cloud-3d1256148a6c) | April 15, 2022 | Portuguese | Cloud Computing | SysAdminas |
 | [Guia da Computação em Nuvem - Conceito, Prática e Capacitação](https://medium.com/sysadminas/guia-da-computa%C3%A7%C3%A3o-em-nuvem-conceito-pr%C3%A1tica-capacita%C3%A7%C3%A3o-706a8b7e555) | April 17, 2022 | Portuguese | Cloud Computing | SysAdminas |
+| [Conheça o Tanzu e veja como a Comunidade SysAdminas e a VMware IT Academy estão ajudando a especializar mulheres nessa plataforma](https://medium.com/sysadminas/conhe%C3%A7a-o-tanzu-e-veja-como-a-comunidade-sysadminas-e-a-vmware-it-academy-est%C3%A3o-ajudando-a-6f8a04a35cc) | May 3, 2022 | Portuguese | Tanzu | SysAdminas | 
+| [Podcasts que falam sobre a comunidade SysAdminas](https://medium.com/sysadminas/podcasts-que-falam-sobre-a-comunidade-sysadminas-94b57a66b164) | May 30, 2022 | Portuguese | Community | SysAdminas |
+| [Como aplicar para o programa Google’s Women Techmakers Ambassador](https://medium.com/sysadminas/como-aplicar-para-o-programa-googles-women-techmakers-ambassador-6a4f81557859) | June 16, 2022 | Portuguese | Google’s Women Techmakers Ambassador | SysAdminas |
 
 ## 2021
 |  Theme | Publication date | Language | Scope | Blog |
