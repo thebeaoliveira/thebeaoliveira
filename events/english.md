@@ -20,6 +20,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Meetup | Presentation and Organization | [Carreiras Técnicas e Diversidade na IBM](https://www.meetup.com/pt-BR/sysadminas/events/286727807/) | IBM & SysAdminas | July 05, 2022 | In-person event |
 | Meetup | Organization | [Usando seu Github como portfólio](https://www.meetup.com/pt-BR/sysadminas/events/286828172/) | SysAdminas | July 18, 2022 | Online |
 | Meetup | Presentation | Tax Meeting Group - Diversity Moment: Conheça a Comunidade SysAdminas | DOW Brasil | July 18, 2022 | Online |
+| Instagram Live | Presentation | [Carreira em Infraestrutura](https://twitter.com/sspacecoding/status/1550994758537035776) | Space Coding |  July 24, 2022 | Online |
 | Open Source Summit | Presentation | [The Importance of Communities for the Inclusion of Women in Technology](https://sched.co/15Bsr) | Linux Foundation | August 23, 2022 | Online |
 
 
