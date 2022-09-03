@@ -27,6 +27,7 @@ Since 2017 I have been writing articles and tutorials on [Medium](https://thebea
 Throughout my career I have been honored to have my contributions recognized through global programs and awards. Some of them are:
 - [Nominated for Women in Tech Global Awards](https://www.womentech.net/nominee/Beatriz/Oliveira/76486) in the category Rising Star of the Year in September 2022
 - [Finalist of the Women in Tech LATAM Awards](https://www.linkedin.com/feed/update/urn:li:activity:6968192949369077760/) in the Best Allie category in September 2022
+- AWS Community Builder awarded by AWS in August 2022
 - [Google Women Techmakers](https://www.womentechmakers.com/ambassadors/profiles/6290db4db43b505261c3f7ff/beatriz_oliveira) awarded by Google in May 2022
 - [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/5004790?fullName=Beatriz%20Oliveira) awarded by Microsoft in May 2022
 - [IT Blog Awards](https://www.cisco.com/c/en/us/training-events/events-webinars/influencer-hub/blog-awards.html#~2021-winners-top-10-25-50) awarded by Cisco in March 2022
