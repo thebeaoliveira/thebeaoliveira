@@ -25,6 +25,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Scholarship | Organization | [Scholarship e Mentoria de Carreira em parceria com a Elastic](https://www.meetup.com/pt-BR/sysadminas/events/287858822/) | SysAdminas | August, 2022 | Online |
 | Meetup | Organization | [Utilizando cache com NGINX](https://www.meetup.com/pt-BR/sysadminas/events/287883663/) | SysAdminas | August 31, 2022 | Online |
 | Scholarship | Organization | [Scholarship VMware Digital Workspace: Core Technical Skills](https://www.meetup.com/pt-BR/sysadminas/events/287858721/) | SysAdminas | September 01, 2022 | Online |
+| Podcast | Presentation | [Infraestrutura de TI com Beatriz Oliveira](https://www.youtube.com/watch?v=qd1I7g1UueI) | Emilias Podcast | September 08, 2022 | Online |
 | Octogatos Conf | Presentation | [GitHub Community Panel - Portuguese](https://www.octogatosconf.com/) | GitHub | September 15, 2022 | Online |
 | Meetup | Organization | Carreira em End User Computing: Parte 1 | SysAdminas | September 19, 2022 | Online |
 | Meetup | Organization | Carreira em End User Computing: Parte 2 | SysAdminas | September 26, 2022 | Online |
