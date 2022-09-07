@@ -13,7 +13,8 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Live | Presentation| [Hipsters.Talks - Infraestrutura como Código](https://www.twitch.tv/videos/1447409598) | Alura | April 04, 2022 | Online |
 | Workshop | Organization| [Workshop I am Remarkable](https://www.meetup.com/pt-BR/Sysadminas/events/284735070/) | Elastic Women User Group & Google | April 12, 2022 | Online |
 | Meetup | Organization and Presentation | [Microsoft Azure Fundamentals](https://globalazure.net/sessions/332560) | SysAdminas & Global Azure | May 05, 2022 | Online |
-| Podcast | Presentation | [Participação no podcast scuba.dev  onde falo sobre minha carreira em tecnologia](https://open.spotify.com/episode/3MzDHdZfAu4rZtnwqJqCww?si=61fb573e4b7e41d7) | Alura | May 19, 2022 | Online |
+| Podcast | Presentation | [Participação no podcast scuba.dev](https://open.spotify.com/episode/3MzDHdZfAu4rZtnwqJqCww?si=61fb573e4b7e41d7) | Alura | May 19, 2022 | Online |
+| Podcast | Presentation | [Participação no kubicast](https://open.spotify.com/episode/3VWptyiuAAac0NjWpgVTxY?si=2aa9c431f7f6498a) | Getup | May 27, 2022 | Online |
 | Meetup |  Organization | [Entrando no mercado de cloud e data](https://www.meetup.com/pt-BR/sysadminas/events/286120253/) | Thoughtworks & SysAdminas | May 30, 2022 | Online | 
 | Meetup | Organization | [Gerenciando configuração com Terraform](https://www.meetup.com/pt-BR/sysadminas/events/286548257/) | Thoughtworks & SysAdminas | June 15, 2022 | Online | 
 | Scholarship | Organization and Presentation | [Programa de Especialização - VMware Certified Technical Associate - App Modernization](https://www.meetup.com/pt-BR/sysadminas/events/285347242/) | VMware & SysAdminas | June 20 - July 13, 2022 | Online | 
@@ -26,9 +27,9 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Scholarship | Organization | [Scholarship e Mentoria de Carreira em parceria com a Elastic](https://www.meetup.com/pt-BR/sysadminas/events/287858822/) | SysAdminas | August, 2022 | Online |
 | Meetup | Organization | [Utilizando cache com NGINX](https://www.meetup.com/pt-BR/sysadminas/events/287883663/) | SysAdminas | August 31, 2022 | Online |
 | Scholarship | Organization | [Scholarship VMware Digital Workspace: Core Technical Skills](https://www.meetup.com/pt-BR/sysadminas/events/287858721/) | SysAdminas | September 01, 2022 | Online |
-| Podcast | Presentation | [Infraestrutura de TI com Beatriz Oliveira](https://www.youtube.com/watch?v=qd1I7g1UueI) | Emilias Podcast | September 08, 2022 | Online |
-| Workshop | Presentation | I am Remarkable | Vivo (Telefonica Brasil) | September 13, 2022 | In-person event |
-| Workshop | Presentation | I am Remarkable | Vivo (Telefonica Brasil) | September 14, 2022 | In-person event |
+| Podcast | Presentation | [Participação no Emilias Podcast](https://www.youtube.com/watch?v=qd1I7g1UueI) | Universidade Tecnológica Federal do Paraná | September 08, 2022 | Online |
+| Workshop | Facilitator | I am Remarkable | Vivo (Telefonica Brasil) | September 13, 2022 | In-person event |
+| Workshop | Facilitator | I am Remarkable | Vivo (Telefonica Brasil) | September 14, 2022 | In-person event |
 | Octogatos Conf | Presentation | [GitHub Community Panel - Portuguese](https://www.octogatosconf.com/) | GitHub | September 15, 2022 | Online |
 | Meetup | Organization | Carreira em End User Computing: Parte 1 | SysAdminas | September 19, 2022 | Online |
 | Meetup | Organization | Carreira em End User Computing: Parte 2 | SysAdminas | September 26, 2022 | Online |
