@@ -21,11 +21,14 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Meetup | Organization | [Usando seu Github como portfólio](https://www.meetup.com/pt-BR/sysadminas/events/286828172/) | SysAdminas | July 18, 2022 | Online |
 | Meetup | Presentation | Tax Meeting Group - Diversity Moment: Conheça a Comunidade SysAdminas | DOW Brasil | July 18, 2022 | Online |
 | Instagram Live | Presentation | [Carreira em Infraestrutura](https://twitter.com/sspacecoding/status/1550994758537035776) | Space Coding |  July 24, 2022 | Online |
+| Meetup | Presentation | [O que é FinOps?](https://www.linkedin.com/posts/thebeaoliveira_hoje-eu-e-odilmo-shibatativemos-a-oportunidade-activity-6958873854341451776-I6TF?utm_source=share&utm_medium=member_desktop) | Vivo (Telefonica Brasil) | July 29, 2022 | Online |
 | Open Source Summit | Presentation | [The Importance of Communities for the Inclusion of Women in Technology](https://sched.co/15Bsr) | Linux Foundation | August 23, 2022 | Online |
 | Scholarship | Organization | [Scholarship e Mentoria de Carreira em parceria com a Elastic](https://www.meetup.com/pt-BR/sysadminas/events/287858822/) | SysAdminas | August, 2022 | Online |
 | Meetup | Organization | [Utilizando cache com NGINX](https://www.meetup.com/pt-BR/sysadminas/events/287883663/) | SysAdminas | August 31, 2022 | Online |
 | Scholarship | Organization | [Scholarship VMware Digital Workspace: Core Technical Skills](https://www.meetup.com/pt-BR/sysadminas/events/287858721/) | SysAdminas | September 01, 2022 | Online |
 | Podcast | Presentation | [Infraestrutura de TI com Beatriz Oliveira](https://www.youtube.com/watch?v=qd1I7g1UueI) | Emilias Podcast | September 08, 2022 | Online |
+| Workshop | Presentation | I am Remarkable | Vivo (Telefonica Brasil) | September 13, 2022 | In-person event |
+| Workshop | Presentation | I am Remarkable | Vivo (Telefonica Brasil) | September 14, 2022 | In-person event |
 | Octogatos Conf | Presentation | [GitHub Community Panel - Portuguese](https://www.octogatosconf.com/) | GitHub | September 15, 2022 | Online |
 | Meetup | Organization | Carreira em End User Computing: Parte 1 | SysAdminas | September 19, 2022 | Online |
 | Meetup | Organization | Carreira em End User Computing: Parte 2 | SysAdminas | September 26, 2022 | Online |
