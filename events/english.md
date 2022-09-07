@@ -22,6 +22,13 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Meetup | Presentation | Tax Meeting Group - Diversity Moment: Conheça a Comunidade SysAdminas | DOW Brasil | July 18, 2022 | Online |
 | Instagram Live | Presentation | [Carreira em Infraestrutura](https://twitter.com/sspacecoding/status/1550994758537035776) | Space Coding |  July 24, 2022 | Online |
 | Open Source Summit | Presentation | [The Importance of Communities for the Inclusion of Women in Technology](https://sched.co/15Bsr) | Linux Foundation | August 23, 2022 | Online |
+| Scholarship | Organization | [Scholarship e Mentoria de Carreira em parceria com a Elastic](https://www.meetup.com/pt-BR/sysadminas/events/287858822/) | SysAdminas | August, 2022 | Online |
+| Meetup | Organization | [Utilizando cache com NGINX](https://www.meetup.com/pt-BR/sysadminas/events/287883663/) | SysAdminas | August 31, 2022 | Online |
+| Scholarship | Organization | [Scholarship VMware Digital Workspace: Core Technical Skills](https://www.meetup.com/pt-BR/sysadminas/events/287858721/) | SysAdminas | September 01, 2022 | Online |
+| Octogatos Conf | Presentation | [GitHub Community Panel - Portuguese](https://www.octogatosconf.com/) | GitHub | September 15, 2022 | Online |
+| Meetup | Organization | Carreira em End User Computing: Parte 1 | SysAdminas | September 19, 2022 | Online |
+| Meetup | Organization | Carreira em End User Computing: Parte 2 | SysAdminas | September 26, 2022 | Online |
+
 
 
 ## 2021
