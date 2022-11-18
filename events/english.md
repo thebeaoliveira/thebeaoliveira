@@ -31,8 +31,12 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Workshop | Facilitator | I am Remarkable | Vivo (Telefonica Brasil) | September 13, 2022 | In-person event |
 | Workshop | Facilitator | I am Remarkable | Vivo (Telefonica Brasil) | September 14, 2022 | In-person event |
 | Octogatos Conf | Presentation | [GitHub Community Panel - Portuguese](https://www.octogatosconf.com/) | GitHub | September 15, 2022 | Online |
-| Meetup | Organization | Carreira em End User Computing: Parte 1 | SysAdminas | September 19, 2022 | Online |
-| Meetup | Organization | Carreira em End User Computing: Parte 2 | SysAdminas | September 26, 2022 | Online |
+| Meetup | Organization | [Carreira em End User Computing: Parte 1](https://www.youtube.com/watch?v=eyGFYQczFaM&t=82s) | SysAdminas | September 19, 2022 | Online |
+| Meetup | Organization | [Carreira em End User Computing: Parte 2](https://www.youtube.com/watch?v=Qpl6Y6dhuoU) | SysAdminas | September 26, 2022 | Online |
+| Meetup | Organization | [Bate papo sobre microsserviços e inglês para entrevista e carreira internacional](https://www.meetup.com/pt-BR/sysadminas/events/288400592/) | SysAdminas | October 04, 2022 | Online |
+| Meetup | Organization | [Desenvolvimento de carreira em áreas de Segurança e Infraestrutura de TI](https://www.meetup.com/pt-BR/sysadminas/events/288562454/) | SysAdminas | October 27, 2022 | Online |
+| Meetup | Organization and Presentation | [Mulheres de Tecnologia e Segurança da Vivo](https://www.flickr.com/photos/196019164@N02/albums/72177720303575257) | SysAdminas e Vivo (Telefonica Brasil)  | In-person event | Online |
+
 
 
 
