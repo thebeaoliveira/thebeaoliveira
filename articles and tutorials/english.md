@@ -19,6 +19,8 @@ Here are some articles and tutorials I've been writing for the community since 2
 | [Conheça a Comunidade SysAdminas, um grupo voltado para a inclusão de mulheres na área de infraestrutura de TI](https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/beatriz-oliveira/2022/06/24/conheca-a-comunidade-sysadminas-um-grupo-voltado-p) | June 24, 2022 | Portuguese | Community | IBM Community |
 | [Como me preparei para o exame FinOps Certified Practitioner](https://medium.com/sysadminas/como-me-preparei-para-o-exame-finops-certified-practitioner-focp-80baf81ce56d) | June 26, 2022 | Portuguese | FinOps | SysAdminas |
 | [Confira o que aconteceu no encontro de mulheres em tecnologia da SysAdminas em parceria com a IBM](https://medium.com/sysadminas/confira-o-que-aconteceu-no-encontro-de-mulheres-em-tecnologia-da-sysadminas-em-parceria-com-a-ibm-1672ea6d7aeb) | July 07, 2022 | Portuguese | Community | SysAdminas |
+| [Como grupos e comunidades focadas em diversidade transformaram a minha carreira](https://medium.com/sysadminas/como-grupos-e-comunidades-focadas-em-diversidade-transformaram-a-minha-carreira-b4ca7c661cea) | September 07, 2022 | Portuguese | Community & Diversity| SysAdminas |
+| [Carreira e estudos em Cloud Computing: Por onde iniciar?](https://community.revelo.com/carreira-e-estudos-em-cloud-computing-por-onde-iniciar/) | October 03, 2022 | Portuguese | Cloud Computing | Revelo |
 
 ## 2021
 |  Theme | Publication date | Language | Scope | Blog |
