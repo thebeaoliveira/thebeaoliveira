@@ -35,7 +35,9 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Meetup | Organization | [Carreira em End User Computing: Parte 2](https://www.youtube.com/watch?v=Qpl6Y6dhuoU) | SysAdminas | September 26, 2022 | Online |
 | Meetup | Organization | [Bate papo sobre microsserviços e inglês para entrevista e carreira internacional](https://www.meetup.com/pt-BR/sysadminas/events/288400592/) | SysAdminas | October 04, 2022 | Online |
 | Meetup | Organization | [Desenvolvimento de carreira em áreas de Segurança e Infraestrutura de TI](https://www.meetup.com/pt-BR/sysadminas/events/288562454/) | SysAdminas | October 27, 2022 | Online |
-| Meetup | Organization and Presentation | [Mulheres de Tecnologia e Segurança da Vivo](https://www.flickr.com/photos/196019164@N02/albums/72177720303575257) | SysAdminas e Vivo (Telefonica Brasil)  | In-person event | Online |
+| Meetup | Organization and Presentation | [Mulheres de Tecnologia e Segurança da Vivo](https://www.flickr.com/photos/196019164@N02/albums/72177720303575257) | SysAdminas e Vivo (Telefonica Brasil)  | November 09, 2022 | In-person event | 
+| Conference | Presentation | [A importância das comunidades para profissionais na área de tecnologia - Palco: T-800 GIT](https://www.youtube.com/watch?v=hrtYIt1J9Mg&t=733s) | Campus Party | November 12, 2022 | In-person event |
+| Conference | Presentation | O que é FinOps? | Campus Party | November 12, 2022 | In-person event |
 
 
 
