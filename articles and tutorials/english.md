@@ -1,6 +1,11 @@
 # History of articles and tutorials
 Here are some articles and tutorials I've been writing for the community since 2017.
 
+## 2023
+|  Theme | Publication date | Language | Scope | Blog |
+| ------------ | ------------ | ------------ | ------------ | ------------ | 
+| [Cloud Computing: Um e-book brasileiro para um aprendizado fácil](https://community.revelo.com/cloud-computing-um-e-book-brasileiro-para-um-aprendizado-facil/) | January 11, 2023 | Portuguese | Cloud Computing | Revelo |
+
 ## 2022
 |  Theme | Publication date | Language | Scope | Blog |
 | ------------ | ------------ | ------------ | ------------ | ------------ | 
