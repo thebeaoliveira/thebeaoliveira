@@ -5,6 +5,14 @@ Here are some community events that I've been contributing since 2017. Over thes
 
 |  Event | My activities | Presentation name   | Community or Company | Data | Local  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Mentoring | Proofreader | [Revisão de Currículo e Linkedin](https://www.sympla.com.br/evento-online/revisao-de-curriculo/1841641)| SysAdminas | January 18, 2023 | Online |
+| Meetup | Organizer| [Meetup SysAdminas: Live Streaming e Kubernetes](https://www.sympla.com.br/evento/meetup-sysadminas-live-streaming-e-kubernetes/1870001)| SysAdminas | March 21, 2023 | In-person event |
+
+
+## 2022
+
+|  Event | My activities | Presentation name   | Community or Company | Data | Local  |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | Elastic Community Conference | Presentation | [O caminho de preparação para se tornar Elastic Certified Observability Engineer](https://community-conference.elastic.co/session/309659)| Elastic| February 11, 2022 | Online |
 | Meetup | Presentation and Organization | [Overview da certificação Oracle Cloud Infrastructure Foundations Associate](https://www.meetup.com/pt-BR/Sysadminas/events/283528835/) | SysAdminas & Oracle Cloud| February 15, 2022 | Online |
 | Meetup | Organization | [Containers e Kubernetes, como eles impactam a vida do desenvolvedor e operação?](https://www.meetup.com/Sysadminas/events/284098200/) | SysAdminas & Google Cloud| March 08, 2022 | Online |
