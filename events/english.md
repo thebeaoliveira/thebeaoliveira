@@ -38,7 +38,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Meetup | Organization and Presentation | [Mulheres de Tecnologia e Segurança da Vivo](https://www.flickr.com/photos/196019164@N02/albums/72177720303575257) | SysAdminas e Vivo (Telefonica Brasil)  | November 09, 2022 | In-person event | 
 | Conference | Presentation | [A importância das comunidades para profissionais na área de tecnologia - Palco: T-800 GIT](https://www.youtube.com/watch?v=hrtYIt1J9Mg&t=733s) | Campus Party | November 12, 2022 | In-person event |
 | Conference | Presentation | O que é FinOps? | Campus Party | November 12, 2022 | In-person event |
-
+| Workshop | Presentation | [Workshop I am Remarkable](https://www.sympla.com.br/evento-online/workshop-i-am-remarkable-na-comunidade-sysadminas/1800920) | SysAdminas | December 01, 2022 | Online |
 
 
 
