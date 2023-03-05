@@ -6,6 +6,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 |  Event | My activities | Presentation name   | Community or Company | Data | Local  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | Mentoring | Proofreader | [Revisão de Currículo e Linkedin](https://www.sympla.com.br/evento-online/revisao-de-curriculo/1841641)| SysAdminas | January 18, 2023 | Online |
+| Live | Speaker | [How to make gender diversity in technology a reality](https://www.linkedin.com/events/howtomakegenderdiversityintechn7034628883937148928/comments/)| Nearsure | February 28, 2023 | Online |
 | Meetup | Organizer| [Meetup SysAdminas: Live Streaming e Kubernetes](https://www.sympla.com.br/evento/meetup-sysadminas-live-streaming-e-kubernetes/1870001)| SysAdminas | March 21, 2023 | In-person event |
 
 
