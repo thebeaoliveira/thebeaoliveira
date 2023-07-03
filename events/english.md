@@ -10,6 +10,8 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Meetup | Organizer| [Meetup SysAdminas: Live Streaming e Kubernetes](https://www.sympla.com.br/evento/meetup-sysadminas-live-streaming-e-kubernetes/1870001)| SysAdminas | March 21, 2023 | In-person event |
 | Live | Speaker | [Comunidades de tecnologia, como rede de apoio para mulheres em tech](https://www.instagram.com/p/CqNbEtXOvIU/) | Universo Agil | March 27, 2023 | Online |
 | Conference | Organizer| [SysAdminas Day: Imersão para mulheres em infraestrutura de TI](https://www.sympla.com.br/evento/sysadminas-day-imersao-para-mulheres-em-infraestrutura-de-ti/1858438?_gl=1*c98zf9*_ga*OTQxODc5ODQ3LjE2NzQxMjYxMTk.*_ga_KXH10SQTZF*MTY3ODYyODQ2MS4yMy4xLjE2Nzg2Mjg1MjUuMC4wLjA.)| SysAdminas | April 15, 2023 | In-person event |
+| Meetup | Organizer | [Tour no datacenter SP3 da Equinix](https://www.linkedin.com/feed/update/urn:li:activity:7073997553956003840/) | SysAdminas | June 10, 2023 | Online |
+| Live | Host | [O caminho de preparação para a certificação VMware Data Center Virtualization](https://www.youtube.com/watch?v=RInLaJIH4go&t=64s) | SysAdminas | June 21, 2023 | Online |
 
 
 ## 2022
