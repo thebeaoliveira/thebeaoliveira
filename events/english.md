@@ -13,6 +13,14 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Meetup | Organizer | [Tour no datacenter SP3 da Equinix](https://www.linkedin.com/feed/update/urn:li:activity:7073997553956003840/) | SysAdminas | June 10, 2023 | Online |
 | Live | Host | [O caminho de preparação para a certificação VMware Data Center Virtualization](https://www.youtube.com/watch?v=RInLaJIH4go&t=64s) | SysAdminas | June 21, 2023 | Online |
 | Conference | Presentation | [Como é trabalhar com Operações em Nuvem](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/?amer-summit-cards.sort-by=item.additionalFields.startDateTime&amer-summit-cards.sort-order=asc&awsf.amer-summit-session=session-types%23dev-chat&awsf.amer-summit-level=level%23100&awsf.amer-summit-areaofinterest=*all&awsf.amer-summit-industry=*all&awsf.amer-summit-roles=*all&awsf.amer-summit-topic=*all&awsm.page-amer-summit-cards=1) | AWS Summit São Paulo | August 3, 2023 | Online |
+| Live | Host | [Plataforma de Engenharia](https://www.youtube.com/watch?v=7M5smtOQDUY&t=8s) | SysAdminas | August 28, 2023 | Online |
+| Live | Presentation | [#JornadaAgil731 E933 #AgilePeople Mulheres em TI](https://www.youtube.com/watch?v=vhrJ4vKBNXk)  | Universo Ágil | August 30, 2023 | Online |
+| Live | Host | [Comunicação e Expressão](https://www.youtube.com/watch?v=gZKbcJlRHgE) | SysAdminas | September 13, 2023 | Online |
+| Conference | Presentation | [Desafios e sucessos na jornada para a Cloud em uma grande empresa tech](https://thedevconf.com/tdc/2023/business/trilha-cloud) | The Developers Conference | September 19, 2023 | Online |
+| Live | Host | [AppSheet: Crie apps sem código](https://www.youtube.com/watch?v=CEvxuNUhANc) | SysAdminas | September 25, 2023 | Online |
+| Conference | Presentation | [Carreira e estudos em cloud computing: Por onde iniciar?](https://php.locaweb.com.br/#programacao) | PHP Community Summit | September 29, 2023 | Online |
+
+
 
 
 ## 2022
