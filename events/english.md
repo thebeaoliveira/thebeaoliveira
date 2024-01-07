@@ -19,6 +19,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Live | Presentation | [#JornadaAgil731 E933 #AgilePeople Mulheres em TI](https://www.youtube.com/watch?v=vhrJ4vKBNXk)  | Universo Ágil | August 30, 2023 | Online |
 | Live | Host | [Comunicação e Expressão](https://www.youtube.com/watch?v=gZKbcJlRHgE) | SysAdminas | September 13, 2023 | Online |
 | Conference | Presentation | [Desafios e sucessos na jornada para a Cloud em uma grande empresa tech](https://thedevconf.com/tdc/2023/business/trilha-cloud) | The Developers Conference | September 19, 2023 | In-person event |
+| Live | Presentation | [Como é trabalhar com Cloud Operations](https://gdg.community.dev/events/details/google-gdg-uberlandia-presents-encontro-wtm-sudeste-6-como-e-trabalhar-com-cloud-operations/) | WTM Sudeste | September 21, 2023 | Online |
 | Live | Host | [AppSheet: Crie apps sem código](https://www.youtube.com/watch?v=CEvxuNUhANc) | SysAdminas | September 25, 2023 | Online |
 | Conference | Presentation | [Carreira e estudos em cloud computing: Por onde iniciar?](https://php.locaweb.com.br/#programacao) | PHP Community Summit | September 29, 2023 | In-person event |
 | Scholarship | Organization and Presentation | [Programa de Especialização - VMware Certified Technical Associate - Data Center Virtualization](https://www.sympla.com.br/evento-online/scholarship-vmware-certified-technical-associate-data-center-virtualization/2154120) | VMware & SysAdminas | September 2023 | Online |
