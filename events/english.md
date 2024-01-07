@@ -24,6 +24,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Conference | Presentation | [Carreira e estudos em cloud computing: Por onde iniciar?](https://php.locaweb.com.br/#programacao) | PHP Community Summit | September 29, 2023 | In-person event |
 | Scholarship | Organization and Presentation | [Programa de Especialização - VMware Certified Technical Associate - Data Center Virtualization](https://www.sympla.com.br/evento-online/scholarship-vmware-certified-technical-associate-data-center-virtualization/2154120) | VMware & SysAdminas | September 2023 | Online |
 | Live | Host | [X-Factor: Todo o poder de Power10](https://www.youtube.com/watch?v=MoqHDy6wyrI&t=5s) | SysAdminas | October 23, 2023 | Online |
+| Live | Presentation | [Mulheres na Tecnologia: Inovação, Desafios e Liderança](https://www.youtube.com/watch?v=Ui0S68BpDiQ) | Campos Thomaz Advogados | October 26, 2023 | Online |
 | Live | Host | [Carreira na área de Enterprise Computing](https://www.youtube.com/watch?v=hlnbf0RhuYo) | SysAdminas | October 30, 2023 | Online |
 | Live | Host | [Em busca dos dados perdidos: Onde realmente estão os nossos preciosos dados?](https://www.youtube.com/watch?v=cT5yYb9IxiE&t=3s) | SysAdminas | November 06, 2023 | Online |
 | Meetup | Presentation | [Carreira e estudos em Cloud Computing: Por onde iniciar?](https://www.meetup.com/pt-BR/golangbr/events/297053997/) | Golang SP | November 16, 2023 | In-person event |
