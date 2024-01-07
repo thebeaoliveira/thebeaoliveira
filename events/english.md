@@ -26,7 +26,8 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Live | Host | [X-Factor: Todo o poder de Power10](https://www.youtube.com/watch?v=MoqHDy6wyrI&t=5s) | SysAdminas | October 23, 2023 | Online |
 | Live | Host | [Carreira na área de Enterprise Computing](https://www.youtube.com/watch?v=hlnbf0RhuYo) | SysAdminas | October 30, 2023 | Online |
 | Live | Host | [Em busca dos dados perdidos: Onde realmente estão os nossos preciosos dados?](https://www.youtube.com/watch?v=cT5yYb9IxiE&t=3s) | SysAdminas | November 06, 2023 | Online |
-| Meetup | Presentation | [Carreira e estudos em Cloud Computing: Por onde iniciar?](https://www.meetup.com/pt-BR/golangbr/events/297053997/) |Golang SP | November 16, 2023 | In-person event |
+| Meetup | Presentation | [Carreira e estudos em Cloud Computing: Por onde iniciar?](https://www.meetup.com/pt-BR/golangbr/events/297053997/) | Golang SP | November 16, 2023 | In-person event |
+| Live | Presentation | [Preparando-se para certificações cloud](https://www.linkedin.com/posts/cloud-women_cloudwoman-carreira-mulheresnati-activity-7135422104950194176-QjOW/?utm_source=share&utm_medium=member_desktop) | Cloud Women | December 04, 2023 | Online |
 | Conference | Presentation | [Maximizando vantagens com uma landing zone estruturada em cloud](https://promo.thedevconf.com/fut23-vivo) |  The Developers Conference | December 05, 2023 | Online |
 | Meetup | Presentation | [Carreira e estudos em Cloud Computing: Por onde iniciar?](https://www.linkedin.com/posts/thebeaoliveira_no-%C3%BAltimo-s%C3%A1bado-estive-no-devfest-do-estado-activity-7141011300033216513-hCnZ?utm_source=share&utm_medium=member_desktop) | DevFest São Paulo | December 09, 2023 | In-person event |
 
