@@ -11,4 +11,4 @@ Minha contribuição nas comunidades abrange uma variedade de atividades, inclui
 
 Por meu trabalho em comunidades, tenho sido reconhecida por organizações de tecnologia através de diversos programas e prêmios, como AWS Community Builder, Google's Women TechMakers Ambassador, VMware vExpert e Microsoft MVP.
 
-Estou aberta para colaborar em iniciativas relacionadas a Cloud Computing, Infraestrutura de TI e Diversidade de Gênero. Para entrar em contato comigo, você pode utilizar minhas redes sociais.
+Estou aberta para colaborar em iniciativas relacionadas a Cloud Computing, Infraestrutura de TI e Diversidade de Gênero. Para entrar em contato comigo, você pode utilizar minhas redes sociais listadas acima.
