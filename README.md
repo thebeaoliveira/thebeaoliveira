@@ -8,6 +8,6 @@ Estou na área de tecnologia há 10 anos, atualmente atuando como Cloud Engineer
 
 Minha contribuição nas comunidades abrange uma variedade de atividades, incluindo a criação de artigos e tutoriais, mentorias de carreira, organização de eventos, apresentação de palestras e gerenciamento de redes sociais.
 
-Por meu trabalho em comunidades, tenho sido reconhecida por organizações de tecnologia através de diversos programas e prêmios, como AWS Community Builder, Google's Women TechMakers Ambassador, VMware vExpert, Microsoft MVP e Pass It On da AnitaB.org.
+Por meu trabalho em comunidades, tenho sido reconhecida por organizações de tecnologia através de diversos programas e prêmios, como AWS Community Builder, Google's Women TechMakers Ambassador, VMware vExpert, Microsoft MVP e Pass It On Award da AnitaB.org.
 
 Estou aberta para colaborar em iniciativas relacionadas a Cloud Computing, Infraestrutura de TI e Diversidade de Gênero. Para entrar em contato comigo, você pode utilizar minhas redes sociais listadas acima.
