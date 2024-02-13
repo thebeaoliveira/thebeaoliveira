@@ -4,8 +4,7 @@ Olá, eu sou a Beatriz Oliveira 👋
 [![Instagram](https://img.shields.io/badge/thebeaoliveira-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thebeaoliveira) [![LinkedIn](https://img.shields.io/badge/thebeaoliveira-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thebeaoliveira) [![Medium](https://img.shields.io/badge/thebeaoliveira-12100E?logo=medium&logoColor=white)](https://medium.com/@thebeaoliveira) [![X](https://img.shields.io/badge/thebeaoliveira-black.svg?logo=X&logoColor=white)](https://x.com/thebeaoliveira) 
 
 
-
-Estou na área de tecnologia há 10 anos, atualmente atuando como Cloud Engineer e líder das comunidades SysAdminas, destinada a mulheres na área de tecnologia, e She Leads Brasil, focada em mulheres líderes no ambiente corporativo.
+Estou na área de tecnologia há 10 anos, atualmente atuando como Cloud Engineer e líder das comunidades [SysAdminas](https://sysadminas.com.br/), destinada a mulheres na área de tecnologia, e [She Leads Brasil](https://medium.com/sheleadsbrasil), focada em mulheres líderes no Brasil.
 
 Minha contribuição nas comunidades abrange uma variedade de atividades, incluindo a criação de artigos e tutoriais, a organização e apresentação em meetups e palestras em eventos, bem como o gerenciamento de redes sociais.
 
