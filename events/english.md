@@ -1,6 +1,14 @@
 # History of lectures and event organizations
 Here are some community events that I've been contributing since 2017. Over these 5 years I have been doing various activities and the main ones are content presentation and organization of events in general.
 
+
+## 2024
+
+|  Event | My activities | Presentation name   | Community or Company | Data | Local  |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Workshop | Presentation | [I am Remarkable](https://www.sympla.com.br/evento/workshop-i-am-remarkable/2331387?referrer=www.linkedin.com)| SysAdminas | February 19, 2024 | In-person event |
+
+
 ## 2023
 
 |  Event | My activities | Presentation name   | Community or Company | Data | Local  |
