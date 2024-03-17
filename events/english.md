@@ -7,6 +7,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 |  Event | My activities | Presentation name   | Community or Company | Data | Local  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | Workshop | Presentation | [I am Remarkable](https://www.sympla.com.br/evento/workshop-i-am-remarkable/2331387?referrer=www.linkedin.com)| SysAdminas | February 19, 2024 | In-person event |
+| Conference | Presentation | [Carreira e estudos em Cloud Computing: Por onde iniciar?](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/) | Kubernetes Community Days (KCD) | February 24, 2024 | In-person event |
 
 
 ## 2023
