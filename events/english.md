@@ -16,7 +16,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 |  Event | My activities | Presentation name   | Community or Company | Data | Local  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
 | Mentoring | Proofreader | [Revisão de Currículo e Linkedin](https://www.sympla.com.br/evento-online/revisao-de-curriculo/1841641)| SysAdminas | January 18, 2023 | Online |
-| Live | Presentation | [How to make gender diversity in technology a reality](https://www.linkedin.com/events/howtomakegenderdiversityintechn7034628883937148928/comments/)| Nearsure | February 28, 2023 | Online |
+<!-- | Live | Presentation | [How to make gender diversity in technology a reality](https://www.linkedin.com/events/howtomakegenderdiversityintechn7034628883937148928/comments/)| Nearsure | February 28, 2023 | Online |-->
 | Live | Presentation | [Jornada de treinamentos AWS](https://www.linkedin.com/posts/thebeaoliveira_jornada-de-treinamentos-aws-activity-7037031876473036801-rWuR?utm_source=share&utm_medium=member_desktop) | AWS | March 08, 2023 | Online |
 | Meetup | Organizer | [Meetup SysAdminas: Live Streaming e Kubernetes](https://www.sympla.com.br/evento/meetup-sysadminas-live-streaming-e-kubernetes/1870001)| SysAdminas | March 21, 2023 | In-person event |
 | Live | Presentation | [Comunidades de tecnologia, como rede de apoio para mulheres em tech](https://www.instagram.com/p/CqNbEtXOvIU/) | Universo Agil | March 27, 2023 | Online |
