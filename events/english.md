@@ -10,6 +10,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Conference | Presentation | [Carreira e estudos em Cloud Computing: Por onde iniciar?](https://community.cncf.io/events/details/cncf-kcd-brasil-presents-kcd-brasil-sao-paulo-2024/) | Kubernetes Community Days (KCD) | February 24, 2024 | In-person event |
 | Conference | Presentation | [Carreira e estudos em Cloud Computing: Por onde iniciar?](https://www.awswomencommunitybrasil.com/trilha-carreiras.html) | AWSome Women Community Summit | March 09, 2024 | In-person event |
 | Conference | Organizer | [International Women's Day (IWD) São Paulo](https://doity.com.br/iwd-estado-de-sao-paulo)| Women TechMakers | March 16, 2024 | In-person event |
+| Conference | Presentation | [Como a cloud computing pode impulsionar a sustentabilidade global](https://www.linkedin.com/feed/update/urn:li:activity:7188854214490505216/)| Digital Week: ANAC | April 23, 2024 | Online |
 
 ## 2023
 
