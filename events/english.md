@@ -1,5 +1,5 @@
 # History of lectures and event organizations
-Here are some community events that I've been contributing since 2017. Over these 5 years I have been doing various activities and the main ones are content presentation and organization of events in general.
+Here are some community events that I've been contributing since 2017. Over these 7 years I have been doing various activities and the main ones are content presentation and organization of events in general.
 
 
 ## 2024
@@ -11,6 +11,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Conference | Presentation | [Carreira e estudos em Cloud Computing: Por onde iniciar?](https://www.awswomencommunitybrasil.com/trilha-carreiras.html) | AWSome Women Community Summit | March 09, 2024 | In-person event |
 | Conference | Organizer | [International Women's Day (IWD) São Paulo](https://doity.com.br/iwd-estado-de-sao-paulo)| Women TechMakers | March 16, 2024 | In-person event |
 | Conference | Presentation | [Como a cloud computing pode impulsionar a sustentabilidade global](https://www.linkedin.com/feed/update/urn:li:activity:7188854214490505216/)| Digital Week: ANAC | April 23, 2024 | Online |
+| Workshop | Presentation | Carreira e estudos em Cloud Computing: Por onde iniciar? | Encontro Tech Ladies da Porto Seguro | April 26, 2024 | Online |
 
 ## 2023
 
