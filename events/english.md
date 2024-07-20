@@ -12,12 +12,14 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Conference | Organizer | [International Women's Day (IWD) São Paulo](https://doity.com.br/iwd-estado-de-sao-paulo)| Women TechMakers | March 16, 2024 | In-person event |
 | Conference | Presentation | [Como a cloud computing pode impulsionar a sustentabilidade global](https://www.linkedin.com/feed/update/urn:li:activity:7188854214490505216/)| Digital Week: ANAC | April 23, 2024 | Online |
 | Workshop | Presentation | [Carreira e estudos em Cloud Computing: Por onde iniciar?](https://www.linkedin.com/posts/thebeaoliveira_na-%C3%BAltima-semana-estive-com-mulheres-de-activity-7190666144893038593-AJx5?utm_source=share&utm_medium=member_desktop) | Encontro Tech Ladies da Porto Seguro | April 26, 2024 | Online |
-| Workshop | Presentation | [Como se destacar no Linkedin](https://www.youtube.com/watch?v=9JdzOJOOiZU) | May 7, 2024 | Online |
-| Live | Presentation | [A relação entre cloud computing e sustentabilidade](https://www.youtube.com/watch?v=4rlVie2fdrQ&t=485s) | May 9, 2024 | Online |
-| Meetup | Presentation | [Mulheres em Tecnologia: Como a diversidade e inclusão vão mudar o jogo nas empresas e na sociedade](https://developer.microsoft.com/pt-br/reactor/events/22405/?wt.mc_id=1reg_22405_webpage_reactor) | May 21, 2024 | In-person event |
-| Live | Organization | [Além da hype: protegendo a IA generativa para inovação responsável](https://www.youtube.com/watch?v=_mYQVgLlcio&t=2s) |  May 23, 2024 | Online |
-| Meetup | Organization | [Meetup - SysAdminas na Red Hat](https://www.sympla.com.br/evento/meetup-sysadminas-na-red-hat/2489397?referrer=www.linkedin.com) | Jun 13, 2024 | In-person event |
-| Live | Organization | [Configuração de redes do básico a nuvem](https://www.youtube.com/watch?v=3QPRcoBV8KQ) | Jun 25, 2024 | Online |
+| Workshop | Presentation | [Como se destacar no Linkedin](https://www.youtube.com/watch?v=9JdzOJOOiZU) | She Leads Brasil | May 7, 2024 | Online |
+| Live | Presentation | [A relação entre cloud computing e sustentabilidade](https://www.youtube.com/watch?v=4rlVie2fdrQ&t=485s) | SysAdminas | May 9, 2024 | Online |
+| Meetup | Presentation | [Mulheres em Tecnologia: Como a diversidade e inclusão vão mudar o jogo nas empresas e na sociedade](https://developer.microsoft.com/pt-br/reactor/events/22405/?wt.mc_id=1reg_22405_webpage_reactor) | Microsoft Reactor | May 21, 2024 | In-person event |
+| Live | Organization | [Além da hype: protegendo a IA generativa para inovação responsável](https://www.youtube.com/watch?v=_mYQVgLlcio&t=2s) | SysAdminas | May 23, 2024 | Online |
+| Meetup | Organization | [Meetup - SysAdminas na Red Hat](https://www.sympla.com.br/evento/meetup-sysadminas-na-red-hat/2489397?referrer=www.linkedin.com) | SysAdminas | Jun 13, 2024 | In-person event |
+| Workshop | Presentation | [Workshop #IAMRemarkable](https://www.sympla.com.br/evento-online/workshop-iamremarkable-celebre-suas-conquistas/2484316?referrer=www.linkedin.com&share_id=copiarlink&referrer=www.linkedin.com) | She Leads Brasil | Jun 20, 2024 | Online | 
+| Live | Organization | [Configuração de redes do básico a nuvem](https://www.youtube.com/watch?v=3QPRcoBV8KQ) | SysAdminas | Jun 25, 2024 | Online |
+| Conference | Presentation | [Cloud Computing e Sustentabilidade: Como a tecnologia pode ajudar a reduzir o impacto ambiental](https://app.4.events/palestrante-beatriz-oliveira-4732-c18443)| Campus Party | July 11, 2024 | In-person event  |
 
 
 ## 2023
