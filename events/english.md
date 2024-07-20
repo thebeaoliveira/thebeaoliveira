@@ -16,6 +16,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Live | Presentation | [A relação entre cloud computing e sustentabilidade](https://www.youtube.com/watch?v=4rlVie2fdrQ&t=485s) | May 9, 2024 | Online |
 | Meetup | Presentation | [Mulheres em Tecnologia: Como a diversidade e inclusão vão mudar o jogo nas empresas e na sociedade](https://developer.microsoft.com/pt-br/reactor/events/22405/?wt.mc_id=1reg_22405_webpage_reactor) | May 21, 2024 | In-person event |
 | Live | Organization | [Além da hype: protegendo a IA generativa para inovação responsável](https://www.youtube.com/watch?v=_mYQVgLlcio&t=2s) |  May 23, 2024 | Online |
+| Meetup | Organization | [Meetup - SysAdminas na Red Hat](https://www.sympla.com.br/evento/meetup-sysadminas-na-red-hat/2489397?referrer=www.linkedin.com) | Jun 13, 2024 | In-person event |
 | Live | Organization | [Configuração de redes do básico a nuvem](https://www.youtube.com/watch?v=3QPRcoBV8KQ) | Jun 25, 2024 | Online |
 
 
