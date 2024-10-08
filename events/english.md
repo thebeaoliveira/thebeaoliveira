@@ -24,8 +24,8 @@ Podcast | Presentation | [Livro Mulheres em Tecnologia por Mariana Carvalho e Be
 | Conference | Presentation | [Como computação em nuvem pode impulsionar a sustentabilidade global](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/?amer-summit-cards.sort-by=item.additionalFields.startDate&amer-summit-cards.sort-order=asc&awsf.amer-summit-areaofinterest=*all&awsf.amer-summit-industry=*all&awsf.amer-summit-roles=*all&awsf.amer-summit-topic=*all&awsf.amer-summit-session=*all&awsf.amer-summit-level=*all&amer-summit-cards.q=beatriz&amer-summit-cards.q_operator=AND)| AWS Summit São Paulo | August 15, 2024 | In-person event  |
 | Conference | Presentation | [Diversidade de Gênero em Tecnologia: Como evoluímos nesse cenário?](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/?amer-summit-cards.sort-by=item.additionalFields.startDate&amer-summit-cards.sort-order=asc&awsf.amer-summit-areaofinterest=*all&awsf.amer-summit-industry=*all&awsf.amer-summit-roles=*all&awsf.amer-summit-topic=*all&awsf.amer-summit-session=*all&awsf.amer-summit-level=*all&amer-summit-cards.q=beatriz&amer-summit-cards.q_operator=AND)| AWS Summit São Paulo | August 15, 2024 | In-person event  |
 | Conference | Presentation | [Como a computação em nuvem pode impulsionar a sustentabilidade global](https://www.youtube.com/watch?v=q2iBHgoxmI0) | WoMakersCode | October 07, 2024 | In-person event  |
+| Live | Organization | [Primeiros passos na construção de aplicações RAG com Elastic](https://www.youtube.com/watch?v=dlqtIUQtT1Y) | SysAdminas | October 15, 2024 | Online |
 | Live | Organization | [Gerenciando seus Secrets com GPG](https://www.youtube.com/watch?v=1lBkZ2N-3k4) | SysAdminas | October 17, 2024 | Online |
-
 
 
 ## 2023
