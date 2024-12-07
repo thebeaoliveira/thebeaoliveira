@@ -25,7 +25,11 @@ Podcast | Presentation | [Livro Mulheres em Tecnologia por Mariana Carvalho e Be
 | Conference | Presentation | [Diversidade de Gênero em Tecnologia: Como evoluímos nesse cenário?](https://aws.amazon.com/pt/events/summits/sao-paulo/agenda/?amer-summit-cards.sort-by=item.additionalFields.startDate&amer-summit-cards.sort-order=asc&awsf.amer-summit-areaofinterest=*all&awsf.amer-summit-industry=*all&awsf.amer-summit-roles=*all&awsf.amer-summit-topic=*all&awsf.amer-summit-session=*all&awsf.amer-summit-level=*all&amer-summit-cards.q=beatriz&amer-summit-cards.q_operator=AND)| AWS Summit São Paulo | August 15, 2024 | In-person event  |
 | Conference | Presentation | [Como a computação em nuvem pode impulsionar a sustentabilidade global](https://www.youtube.com/watch?v=q2iBHgoxmI0) | WoMakersCode | October 07, 2024 | In-person event  |
 | Live | Organization | [Primeiros passos na construção de aplicações RAG com Elastic](https://www.youtube.com/watch?v=dlqtIUQtT1Y) | SysAdminas | October 15, 2024 | Online |
-| Live | Organization | [Gerenciando seus Secrets com GPG](https://www.youtube.com/watch?v=1lBkZ2N-3k4) | SysAdminas | October 17, 2024 | Online |
+| Live | Presentation | [Os Desafios e o Futuro das Mulheres em Tecnologia](https://www.linkedin.com/posts/thebeaoliveira_ontem-participei-da-36%C2%AA-semana-de-computa%C3%A7%C3%A3o-activity-7257345513702735872-39Jw?utm_source=share&utm_medium=member_desktop) |  36ª Semana de Computação e Informática da FIPP/UNOESTE (INFOESTE 2024) | October 29, 2024 | Online | 
+| Mentoring | Presentation | [Gestão de Carreiras Plena e Sênior em Tecnologia](https://www.linkedin.com/posts/thebeaoliveira_inspira-programariasummit-activity-7259882336526209025-Sci9?utm_source=share&utm_medium=member_desktop) | Programaria Summit | November 07, 2024 | Online |
+| Live | Organization | [Intraempreendedorismo: o que é, como fazer, e porque é tão importante?](https://www.youtube.com/watch?v=GyOYFQmL4_I&t=1s) | SysAdminas | November 12, 2024 | Online |
+| Meetup | Organization | [Women In Tech Celebration](https://www.sympla.com.br/evento/women-in-tech-celebration/2731657?referrer=www.linkedin.com) | SysAdminas | November 19, 2024 | Online |
+
 
 
 ## 2023
