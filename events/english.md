@@ -1,6 +1,14 @@
 # History of lectures and event organizations
 Here are some community events that I've been contributing since 2017. Over these 7 years I have been doing various activities and the main ones are content presentation and organization of events in general.
 
+## 2025
+
+|  Event | My activities | Presentation name   | Community or Company | Data | Local  |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Conference | Presentation | [Workshop de Comunicação assertiva no ambiente tech](https://www.linkedin.com/posts/yanomaniluz_mulheresnatecnologia-womentechmakers-wtm-activity-7297998618572038144-NTpr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7vZ3sBGqCeTYTz-BtuybWmrG9wiZr2hlU) | Women Techmakers | March 21, 2025 | In-person event |
+| Conference | Presentation | [A importância de uma estruturação eficiente de landing zones na nuvem](https://www.awswomencommunitybrasil.com/trilha-carreiras.html) | AWSome Women Community Summit | March 22, 2025 | In-person event |
+
+
 
 ## 2024
 
