@@ -5,8 +5,10 @@ Here are some community events that I've been contributing since 2017. Over thes
 
 |  Event | My activities | Presentation name   | Community or Company | Data | Local  |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| Live | Presentation | [Como a computação em nuvem pode impulsionar a sustentabilidade global](https://www.youtube.com/watch?v=Gs7UNtlys0k) | MVP Conf | March 08, 2025 | Online | 
 | Workshop | Presentation | [Workshop de Comunicação assertiva no ambiente tech](https://www.linkedin.com/posts/yanomaniluz_mulheresnatecnologia-womentechmakers-wtm-activity-7297998618572038144-NTpr?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7vZ3sBGqCeTYTz-BtuybWmrG9wiZr2hlU) | Women Techmakers | March 21, 2025 | In-person event |
 | Conference | Presentation | [A importância de uma estruturação eficiente de landing zones na nuvem](https://www.awswomencommunitybrasil.com/trilha-carreiras.html) | AWSome Women Community Summit | March 22, 2025 | In-person event |
+| Conference | Presentation | [Painel: Tech Verde: Dá Pra Ser Sustentável e Inovador](https://www.sympla.com.br/evento/esquenta-inovathon-wtm-2025/2855601?_gl=1*1gtk0j6*_gcl_au*MTM1MDQzMTk5MC4xNzQwNTMxMzE0*_ga*Nzg4OTM4MTAxLjE3MTYzMDI5MzE.&share_id=copiarlink) | Esquenta Inovathon WTM 2025 | March 22, 2025 | In-person event |
 
 
 
