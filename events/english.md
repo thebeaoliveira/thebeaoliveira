@@ -11,6 +11,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Conference | Presentation | [A importância de uma estruturação eficiente de landing zones na nuvem](https://www.awswomencommunitybrasil.com/trilha-carreiras.html) | AWSome Women Community Summit | March 22, 2025 | In-person event |
 | Conference | Presentation | [Painel: Tech Verde: Dá Pra Ser Sustentável e Inovador](https://www.sympla.com.br/evento/esquenta-inovathon-wtm-2025/2855601?_gl=1*1gtk0j6*_gcl_au*MTM1MDQzMTk5MC4xNzQwNTMxMzE0*_ga*Nzg4OTM4MTAxLjE3MTYzMDI5MzE.&share_id=copiarlink) | Esquenta Inovathon WTM 2025 | March 22, 2025 | In-person event |
 | Conference | Presentation | [Cómo construir una migración segura y eficiente hacia la nube pública](https://gdg.community.dev/events/details/google-gdg-xalapa-presents-iwd-2025-xalapa-redefine-possible/) | Women Techmakers México | April 25, 2025 | Online |
+| Meetup | Presentation | [Como construir uma migração segura e eficiente para a cloud pública](https://guild.host/events/nodebr-so-paulo-73-o-5n3uhv) | NodeBR | April 29, 2025 | In-person event |
 
 
 
