@@ -13,7 +13,7 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Conference | Presentation | [Cómo construir una migración segura y eficiente hacia la nube pública](https://gdg.community.dev/events/details/google-gdg-xalapa-presents-iwd-2025-xalapa-redefine-possible/) | Women Techmakers México | April 25, 2025 | Online |
 | Meetup | Presentation | [Como construir uma migração segura e eficiente para a cloud pública](https://guild.host/events/nodebr-so-paulo-73-o-5n3uhv) | NodeBR | April 29, 2025 | In-person event |
 Meetup | Presentation | [Entre trocas e conexões o papel transformador das comunidades](https://www.sympla.com.br/evento/meetup-de-comunidade-da-duvida-ao-primeiro-passo-explorando-o-comeco-da-carreira-em-tech/2990314?referrer=www.linkedin.com) | Alura + FIAP | Jun 24, 2025 | In-person event |
-
+| Meetup | Presentation | [Mulheres, Dados e Impacto Social](https://www.linkedin.com/posts/d3s-consultoria_evento-d3s-activity-7340389587363508224-m_SJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7vZ3sBGqCeTYTz-BtuybWmrG9wiZr2hlU) | D3S Consultoria | Jul 03, 2025 | In-person event |
 
 
 ## 2024
