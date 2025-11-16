@@ -17,6 +17,10 @@ Meetup | Presentation | [Entre trocas e conexões o papel transformador das comu
 | Meetup | Presentation | [Como construir uma migração segura e eficiente para a cloud pública](https://www.youtube.com/watch?v=yW8FBYJ6zP4) | GolangSP | Ago 12, 2025 | Online |
 | Meetup | Presentation | [Como construir uma migração segura e eficiente para a cloud pública](https://www.sympla.com.br/evento/presencial-esquenta-tdc-santos-2025-ibrawork/3044683) | GDG Santos | Ago 30, 2025 | In-person event |
 | Meetup | Presentation | [Landing zones: A base para uma jornada eficiente na nuvem](https://www.sympla.com.br/evento/meetup-linuxtips-local-sp-will-bank/3117577?referrer=www.linkedin.com&referrer=www.linkedin.com) | LinuxTips | Sep 27, 2025 | In-person event |
+| Mentoring | Presentation | [Gestão de Carreiras Plena e Sênior em Tecnologia](https://www.linkedin.com/posts/thebeaoliveira_programariasummit-inspira-activity-7375904105057247232-4_I-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7vZ3sBGqCeTYTz-BtuybWmrG9wiZr2hlU) | Programaria Summit | October 16, 2025 | Online |
+| Meetup | Presentation | [A importância de uma estruturação eficiente de landing zones na nuvem](https://www.meetup.com/pt-br/golangbr/events/311414368/?eventOrigin=group_events_list) | GolangSP | October 14, 2025 | In-person event |
+| Conference | Presentation | [Como construir uma migração segura e eficiente para a cloud pública](https://www.linkedin.com/posts/thebeaoliveira_no-pr%C3%B3ximo-s%C3%A1bado-estarei-no-mvp-conf-apresentando-activity-7386810272763568128-eWx_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7vZ3sBGqCeTYTz-BtuybWmrG9wiZr2hlU) | MVP Conf | October 25, 2025 |  In-person event |
+| Conference | Presentation | [Cómo construir una migración segura y eficiente hacia la nube pública](https://x.com/kcdspain/status/1983563242438815794?s=12) | CloudNativos 2025 Spain | October 259 2025 | Online |
 
 
 ## 2024
