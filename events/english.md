@@ -14,7 +14,9 @@ Here are some community events that I've been contributing since 2017. Over thes
 | Meetup | Presentation | [Como construir uma migração segura e eficiente para a cloud pública](https://guild.host/events/nodebr-so-paulo-73-o-5n3uhv) | NodeBR | April 29, 2025 | In-person event |
 Meetup | Presentation | [Entre trocas e conexões o papel transformador das comunidades](https://www.sympla.com.br/evento/meetup-de-comunidade-da-duvida-ao-primeiro-passo-explorando-o-comeco-da-carreira-em-tech/2990314?referrer=www.linkedin.com) | Alura + FIAP | Jun 24, 2025 | In-person event |
 | Meetup | Presentation | [Mulheres, Dados e Impacto Social](https://www.linkedin.com/posts/d3s-consultoria_evento-d3s-activity-7340389587363508224-m_SJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB7vZ3sBGqCeTYTz-BtuybWmrG9wiZr2hlU) | D3S Consultoria | Jul 03, 2025 | In-person event |
-| Meetup | Presentation | [Como construir uma migração segura e eficiente para a cloud pública](https://www.youtube.com/watch?v=yW8FBYJ6zP4) | GolangSP | Ago 12, 2025 | In-person event |
+| Meetup | Presentation | [Como construir uma migração segura e eficiente para a cloud pública](https://www.youtube.com/watch?v=yW8FBYJ6zP4) | GolangSP | Ago 12, 2025 | Online |
+| Meetup | Presentation | [Como construir uma migração segura e eficiente para a cloud pública](https://www.sympla.com.br/evento/presencial-esquenta-tdc-santos-2025-ibrawork/3044683) | GDG Santos | Ago 30, 2025 | In-person event |
+| Meetup | Presentation | [Landing zones: A base para uma jornada eficiente na nuvem](https://www.sympla.com.br/evento/meetup-linuxtips-local-sp-will-bank/3117577?referrer=www.linkedin.com&referrer=www.linkedin.com) | LinuxTips | Sep 27, 2025 | In-person event |
 
 
 ## 2024
